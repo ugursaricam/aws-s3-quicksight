@@ -9,7 +9,7 @@ This project demonstrates the creation of an interactive sales analysis dashboar
 ![AWS Architecture](pics/schema.png)
 
 The project follows a simple yet effective architecture:
-1. Raw data is stored in Amazon S3 buckets
+1. Cleaned data is stored in Amazon S3 buckets
 2. Amazon QuickSight is used to analyze the data and create visualizations
 3. The resulting dashboard is made available to business users for insights
 
