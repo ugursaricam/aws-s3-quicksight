@@ -1,0 +1,1226 @@
+,Date,Country,Product,Units Sold,Revenue,Cost,Profit
+0,2020-02-01,India,Chocolate Chip,292,1460,584.0,876.0
+1,2020-06-01,India,Chocolate Chip,2518,12590,5036.0,7554.0
+2,2020-12-01,India,Chocolate Chip,1817,9085,3634.0,5451.0
+3,2020-02-01,India,Chocolate Chip,2363,11815,4726.0,7089.0
+4,2020-10-01,India,Chocolate Chip,1295,6475,2590.0,3885.0
+5,2020-12-01,India,Chocolate Chip,1916,9580,3832.0,5748.0
+6,2020-12-01,India,Chocolate Chip,2852,14260,5704.0,8556.0
+7,2020-12-01,India,Chocolate Chip,2729,13645,5458.0,8187.0
+8,2020-03-01,India,Chocolate Chip,1774,8870,3548.0,5322.0
+9,2020-10-01,India,Chocolate Chip,2009,10045,4018.0,6027.0
+10,2020-01-01,India,Chocolate Chip,4251,21255,8502.0,12753.0
+11,2020-09-01,India,Chocolate Chip,218,1090,436.0,654.0
+12,2020-09-01,India,Chocolate Chip,2074,10370,4148.0,6222.0
+13,2020-12-01,India,Chocolate Chip,2431,12155,4862.0,7293.0
+14,2020-05-01,India,Chocolate Chip,1702,8510,3404.0,5106.0
+15,2020-05-01,India,Chocolate Chip,257,1285,514.0,771.0
+16,2020-06-01,India,Chocolate Chip,1094,5470,2188.0,3282.0
+17,2020-01-01,India,Chocolate Chip,873,4365,1746.0,2619.0
+18,2020-07-01,India,Chocolate Chip,2105,10525,4210.0,6315.0
+19,2020-07-01,India,Chocolate Chip,4026,20130,8052.0,12078.0
+20,2020-08-01,India,Chocolate Chip,2394,11970,4788.0,7182.0
+21,2020-11-01,India,Chocolate Chip,1366,6830,2732.0,4098.0
+22,2020-06-01,India,Chocolate Chip,2632,13160,5264.0,7896.0
+23,2020-06-01,India,Chocolate Chip,1583,7915,3166.0,4749.0
+24,2020-10-01,India,Chocolate Chip,1565,7825,3130.0,4695.0
+25,2020-10-01,India,Chocolate Chip,1249,6245,2498.0,3747.0
+26,2020-03-01,India,Chocolate Chip,2428,12140,4856.0,7284.0
+27,2020-11-01,India,Chocolate Chip,700,3500,1400.0,2100.0
+28,2020-04-01,India,Chocolate Chip,1614,8070,3228.0,4842.0
+29,2020-08-01,India,Chocolate Chip,2559,12795,5118.0,7677.0
+30,2020-04-01,India,Chocolate Chip,723,3615,1446.0,2169.0
+31,2020-06-01,India,Fortune Cookie,2518,2518,503.6,2014.4
+32,2020-07-01,India,Fortune Cookie,2666,2666,533.2,2132.8
+33,2020-08-01,India,Fortune Cookie,1830,1830,366.0,1464.0
+34,2020-03-01,India,Fortune Cookie,1967,1967,393.4,1573.6
+35,2020-02-01,India,Fortune Cookie,488,488,97.6,390.4
+36,2020-06-01,India,Fortune Cookie,708,708,141.6,566.4
+37,2020-04-01,India,Fortune Cookie,3803,3803,760.6,3042.4
+38,2020-11-01,India,Fortune Cookie,2321,2321,464.2,1856.8
+39,2020-10-01,India,Fortune Cookie,2734,2734,546.8,2187.2
+40,2020-10-01,India,Fortune Cookie,1249,1249,249.8,999.2
+41,2020-01-01,India,Fortune Cookie,2228,2228,445.6,1782.4
+42,2020-05-01,India,Fortune Cookie,200,200,40.0,160.0
+43,2020-09-01,India,Fortune Cookie,388,388,77.6,310.4
+44,2020-12-01,India,Fortune Cookie,2300,2300,460.0,1840.0
+45,2020-12-01,India,Oatmeal Raisin,1916,9580,4215.2,5364.8
+46,2020-08-01,India,Oatmeal Raisin,552,2760,1214.4,1545.6
+47,2020-06-01,India,Oatmeal Raisin,1135,5675,2497.0,3178.0
+48,2020-05-01,India,Oatmeal Raisin,1645,8225,3619.0,4606.0
+49,2020-11-01,India,Oatmeal Raisin,1118,5590,2459.6,3130.4
+50,2020-06-01,India,Oatmeal Raisin,708,3540,1557.6,1982.4
+51,2020-10-01,India,Oatmeal Raisin,1269,6345,2791.8,3553.2
+52,2020-07-01,India,Oatmeal Raisin,1631,8155,3588.2,4566.8
+53,2020-02-01,India,Oatmeal Raisin,2240,11200,4928.0,6272.0
+54,2020-04-01,India,Oatmeal Raisin,3521,17605,7746.2,9858.8
+55,2020-09-01,India,Oatmeal Raisin,707,3535,1555.4,1979.6
+56,2020-10-01,India,Oatmeal Raisin,2734,13670,6014.8,7655.2
+57,2020-01-01,India,Oatmeal Raisin,1659,8295,3649.8,4645.2
+58,2020-03-01,India,Oatmeal Raisin,888,4440,1953.6,2486.4
+59,2020-01-01,India,Snickerdoodle,1619,6476,2428.5,4047.5
+60,2020-09-01,India,Snickerdoodle,1445,5780,2167.5,3612.5
+61,2020-04-01,India,Snickerdoodle,743,2972,1114.5,1857.5
+62,2020-10-01,India,Snickerdoodle,1295,5180,1942.5,3237.5
+63,2020-12-01,India,Snickerdoodle,2852,11408,4278.0,7130.0
+64,2020-05-01,India,Snickerdoodle,831,3324,1246.5,2077.5
+65,2020-06-01,India,Snickerdoodle,2844,11376,4266.0,7110.0
+66,2020-08-01,India,Snickerdoodle,1884,7536,2826.0,4710.0
+67,2020-06-01,India,Snickerdoodle,1094,4376,1641.0,2735.0
+68,2020-07-01,India,Snickerdoodle,819,3276,1228.5,2047.5
+69,2020-02-01,India,Snickerdoodle,1937,7748,2905.5,4842.5
+70,2020-11-01,India,Snickerdoodle,2689,10756,4033.5,6722.5
+71,2020-03-01,India,Snickerdoodle,923,3692,1384.5,2307.5
+72,2020-10-01,India,Snickerdoodle,1496,5984,2244.0,3740.0
+73,2020-12-01,India,Snickerdoodle,2300,9200,3450.0,5750.0
+74,2020-02-01,India,Sugar,2001,6003,2501.25,3501.75
+75,2020-12-01,India,Sugar,1817,5451,2271.25,3179.75
+76,2020-03-01,India,Sugar,1326,3978,1657.5,2320.5
+77,2020-04-01,India,Sugar,944,2832,1180.0,1652.0
+78,2020-12-01,India,Sugar,2729,8187,3411.25,4775.75
+79,2020-08-01,India,Sugar,1874,5622,2342.5,3279.5
+80,2020-06-01,India,Sugar,2844,8532,3555.0,4977.0
+81,2020-12-01,India,Sugar,1582,4746,1977.5,2768.5
+82,2020-01-01,India,Sugar,3245,9735,4056.25,5678.75
+83,2020-09-01,India,Sugar,2134,6402,2667.5,3734.5
+84,2020-11-01,India,Sugar,2529,7587,3161.25,4425.75
+85,2020-05-01,India,Sugar,2109,6327,2636.25,3690.75
+86,2020-06-01,India,Sugar,1583,4749,1978.75,2770.25
+87,2020-10-01,India,Sugar,1565,4695,1956.25,2738.75
+88,2020-10-01,India,Sugar,1496,4488,1870.0,2618.0
+89,2020-07-01,India,Sugar,866,2598,1082.5,1515.5
+90,2020-08-01,India,White Chocolate Macadamia Nut,923,5538,2538.25,2999.75
+91,2020-10-01,India,White Chocolate Macadamia Nut,2009,12054,5524.75,6529.25
+92,2020-04-01,India,White Chocolate Macadamia Nut,3851,23106,10590.25,12515.75
+93,2020-12-01,India,White Chocolate Macadamia Nut,2431,14586,6685.25,7900.75
+94,2020-02-01,India,White Chocolate Macadamia Nut,952,5712,2618.0,3094.0
+95,2020-05-01,India,White Chocolate Macadamia Nut,1262,7572,3470.5,4101.5
+96,2020-06-01,India,White Chocolate Macadamia Nut,1135,6810,3121.25,3688.75
+97,2020-12-01,India,White Chocolate Macadamia Nut,1582,9492,4350.5,5141.5
+98,2020-03-01,India,White Chocolate Macadamia Nut,598,3588,1644.5,1943.5
+99,2020-07-01,India,White Chocolate Macadamia Nut,3794,22764,10433.5,12330.5
+100,2020-09-01,India,White Chocolate Macadamia Nut,567,3402,1559.25,1842.75
+101,2020-10-01,India,White Chocolate Macadamia Nut,1269,7614,3489.75,4124.25
+102,2020-01-01,India,White Chocolate Macadamia Nut,384,2304,1056.0,1248.0
+103,2020-11-01,India,White Chocolate Macadamia Nut,1808,10848,4972.0,5876.0
+104,2020-06-01,India,White Chocolate Macadamia Nut,2632,15792,7238.0,8554.0
+105,2019-11-01,India,Chocolate Chip,1725,8625,3450.0,5175.0
+106,2019-12-01,India,Chocolate Chip,2152,10760,4304.0,6456.0
+107,2019-09-01,India,Chocolate Chip,2349,11745,4698.0,7047.0
+108,2019-10-01,India,Chocolate Chip,1228,6140,2456.0,3684.0
+109,2019-10-01,India,Chocolate Chip,1389,6945,2778.0,4167.0
+110,2019-12-01,India,Chocolate Chip,1802,9010,3604.0,5406.0
+111,2019-10-01,India,Chocolate Chip,2299,11495,4598.0,6897.0
+112,2019-11-01,India,Chocolate Chip,1404,7020,2808.0,4212.0
+113,2019-09-01,India,Chocolate Chip,2470,12350,4940.0,7410.0
+114,2019-10-01,India,Chocolate Chip,1743,8715,3486.0,5229.0
+115,2019-11-01,India,Chocolate Chip,2222,11110,4444.0,6666.0
+116,2019-10-01,India,Fortune Cookie,345,345,69.0,276.0
+117,2019-10-01,India,Fortune Cookie,2851,2851,570.2,2280.8
+118,2019-09-01,India,Fortune Cookie,1283,1283,256.6,1026.4
+119,2019-12-01,India,Fortune Cookie,1611,1611,322.2,1288.8
+120,2019-12-01,India,Oatmeal Raisin,1778,8890,3911.6,4978.4
+121,2019-10-01,India,Oatmeal Raisin,1228,6140,2701.6,3438.4
+122,2019-09-01,India,Oatmeal Raisin,2761,13805,6074.2,7730.8
+123,2019-10-01,India,Oatmeal Raisin,1743,8715,3834.6,4880.4
+124,2019-12-01,India,Snickerdoodle,908,3632,1362.0,2270.0
+125,2019-10-01,India,Snickerdoodle,2851,11404,4276.5,7127.5
+126,2019-10-01,India,Snickerdoodle,2299,9196,3448.5,5747.5
+127,2019-11-01,India,Snickerdoodle,1560,6240,2340.0,3900.0
+128,2019-09-01,India,Snickerdoodle,2416,9664,3624.0,6040.0
+129,2019-10-01,India,Sugar,1389,4167,1736.25,2430.75
+130,2019-12-01,India,Sugar,2436,7308,3045.0,4263.0
+131,2019-11-01,India,Sugar,2935,8805,3668.75,5136.25
+132,2019-09-01,India,Sugar,623,1869,778.75,1090.25
+133,2019-10-01,India,Sugar,269,807,336.25,470.75
+134,2019-11-01,India,Sugar,2954,8862,3692.5,5169.5
+135,2019-10-01,India,White Chocolate Macadamia Nut,345,2070,948.75,1121.25
+136,2019-11-01,India,White Chocolate Macadamia Nut,2092,12552,5753.0,6799.0
+137,2019-09-01,India,White Chocolate Macadamia Nut,2646,15876,7276.5,8599.5
+138,2019-12-01,India,White Chocolate Macadamia Nut,1916,11496,5269.0,6227.0
+139,2019-10-01,India,White Chocolate Macadamia Nut,269,1614,739.75,874.25
+140,2020-02-01,India,Chocolate Chip,292,1460,584.0,876.0
+141,2020-06-01,India,Chocolate Chip,2518,12590,5036.0,7554.0
+142,2020-12-01,India,Chocolate Chip,1817,9085,3634.0,5451.0
+143,2020-02-01,India,Chocolate Chip,2363,11815,4726.0,7089.0
+144,2020-10-01,India,Chocolate Chip,1295,6475,2590.0,3885.0
+145,2020-12-01,India,Chocolate Chip,1916,9580,3832.0,5748.0
+146,2020-12-01,India,Chocolate Chip,2852,14260,5704.0,8556.0
+147,2020-12-01,India,Chocolate Chip,2729,13645,5458.0,8187.0
+148,2020-03-01,India,Chocolate Chip,1774,8870,3548.0,5322.0
+149,2020-10-01,India,Chocolate Chip,2009,10045,4018.0,6027.0
+150,2020-01-01,India,Chocolate Chip,4251,21255,8502.0,12753.0
+151,2020-09-01,India,Chocolate Chip,218,1090,436.0,654.0
+152,2020-09-01,India,Chocolate Chip,2074,10370,4148.0,6222.0
+153,2020-12-01,India,Chocolate Chip,2431,12155,4862.0,7293.0
+154,2020-05-01,India,Chocolate Chip,1702,8510,3404.0,5106.0
+155,2020-05-01,India,Chocolate Chip,257,1285,514.0,771.0
+156,2020-06-01,India,Chocolate Chip,1094,5470,2188.0,3282.0
+157,2020-01-01,India,Chocolate Chip,873,4365,1746.0,2619.0
+158,2020-07-01,India,Chocolate Chip,2105,10525,4210.0,6315.0
+159,2020-07-01,India,Chocolate Chip,4026,20130,8052.0,12078.0
+160,2020-08-01,India,Chocolate Chip,2394,11970,4788.0,7182.0
+161,2020-11-01,India,Chocolate Chip,1366,6830,2732.0,4098.0
+162,2020-06-01,India,Chocolate Chip,2632,13160,5264.0,7896.0
+163,2020-06-01,India,Chocolate Chip,1583,7915,3166.0,4749.0
+164,2020-10-01,India,Chocolate Chip,1565,7825,3130.0,4695.0
+165,2020-10-01,India,Chocolate Chip,1249,6245,2498.0,3747.0
+166,2020-03-01,India,Chocolate Chip,2428,12140,4856.0,7284.0
+167,2020-11-01,India,Chocolate Chip,700,3500,1400.0,2100.0
+168,2020-04-01,India,Chocolate Chip,1614,8070,3228.0,4842.0
+169,2020-08-01,India,Chocolate Chip,2559,12795,5118.0,7677.0
+170,2020-04-01,India,Chocolate Chip,723,3615,1446.0,2169.0
+171,2020-06-01,India,Fortune Cookie,2518,2518,503.6,2014.4
+172,2020-07-01,India,Fortune Cookie,2666,2666,533.2,2132.8
+173,2020-08-01,India,Fortune Cookie,1830,1830,366.0,1464.0
+174,2020-03-01,India,Fortune Cookie,1967,1967,393.4,1573.6
+175,2020-02-01,India,Fortune Cookie,488,488,97.6,390.4
+176,2020-06-01,India,Fortune Cookie,708,708,141.6,566.4
+177,2020-04-01,India,Fortune Cookie,3803,3803,760.6,3042.4
+178,2020-11-01,India,Fortune Cookie,2321,2321,464.2,1856.8
+179,2020-10-01,India,Fortune Cookie,2734,2734,546.8,2187.2
+180,2020-10-01,India,Fortune Cookie,1249,1249,249.8,999.2
+181,2020-01-01,India,Fortune Cookie,2228,2228,445.6,1782.4
+182,2020-05-01,India,Fortune Cookie,200,200,40.0,160.0
+183,2020-09-01,India,Fortune Cookie,388,388,77.6,310.4
+184,2020-12-01,India,Fortune Cookie,2300,2300,460.0,1840.0
+185,2020-12-01,India,Oatmeal Raisin,1916,9580,4215.2,5364.8
+186,2020-08-01,India,Oatmeal Raisin,552,2760,1214.4,1545.6
+187,2020-06-01,India,Oatmeal Raisin,1135,5675,2497.0,3178.0
+188,2020-05-01,India,Oatmeal Raisin,1645,8225,3619.0,4606.0
+189,2020-11-01,India,Oatmeal Raisin,1118,5590,2459.6,3130.4
+190,2020-06-01,India,Oatmeal Raisin,708,3540,1557.6,1982.4
+191,2020-10-01,India,Oatmeal Raisin,1269,6345,2791.8,3553.2
+192,2020-07-01,India,Oatmeal Raisin,1631,8155,3588.2,4566.8
+193,2020-02-01,India,Oatmeal Raisin,2240,11200,4928.0,6272.0
+194,2020-04-01,India,Oatmeal Raisin,3521,17605,7746.2,9858.8
+195,2020-09-01,India,Oatmeal Raisin,707,3535,1555.4,1979.6
+196,2020-10-01,India,Oatmeal Raisin,2734,13670,6014.8,7655.2
+197,2020-01-01,India,Oatmeal Raisin,1659,8295,3649.8,4645.2
+198,2020-03-01,India,Oatmeal Raisin,888,4440,1953.6,2486.4
+199,2020-01-01,India,Snickerdoodle,1619,6476,2428.5,4047.5
+200,2020-09-01,India,Snickerdoodle,1445,5780,2167.5,3612.5
+201,2020-04-01,India,Snickerdoodle,743,2972,1114.5,1857.5
+202,2020-10-01,India,Snickerdoodle,1295,5180,1942.5,3237.5
+203,2020-12-01,India,Snickerdoodle,2852,11408,4278.0,7130.0
+204,2020-05-01,India,Snickerdoodle,831,3324,1246.5,2077.5
+205,2020-06-01,India,Snickerdoodle,2844,11376,4266.0,7110.0
+206,2020-08-01,India,Snickerdoodle,1884,7536,2826.0,4710.0
+207,2020-06-01,India,Snickerdoodle,1094,4376,1641.0,2735.0
+208,2020-07-01,India,Snickerdoodle,819,3276,1228.5,2047.5
+209,2020-02-01,India,Snickerdoodle,1937,7748,2905.5,4842.5
+210,2020-11-01,India,Snickerdoodle,2689,10756,4033.5,6722.5
+211,2020-03-01,India,Snickerdoodle,923,3692,1384.5,2307.5
+212,2020-10-01,India,Snickerdoodle,1496,5984,2244.0,3740.0
+213,2020-12-01,India,Snickerdoodle,2300,9200,3450.0,5750.0
+214,2020-02-01,India,Sugar,2001,6003,2501.25,3501.75
+215,2020-12-01,India,Sugar,1817,5451,2271.25,3179.75
+216,2020-03-01,India,Sugar,1326,3978,1657.5,2320.5
+217,2020-04-01,India,Sugar,944,2832,1180.0,1652.0
+218,2020-12-01,India,Sugar,2729,8187,3411.25,4775.75
+219,2020-08-01,India,Sugar,1874,5622,2342.5,3279.5
+220,2020-06-01,India,Sugar,2844,8532,3555.0,4977.0
+221,2020-12-01,India,Sugar,1582,4746,1977.5,2768.5
+222,2020-01-01,India,Sugar,3245,9735,4056.25,5678.75
+223,2020-09-01,India,Sugar,2134,6402,2667.5,3734.5
+224,2020-11-01,India,Sugar,2529,7587,3161.25,4425.75
+225,2020-05-01,India,Sugar,2109,6327,2636.25,3690.75
+226,2020-06-01,India,Sugar,1583,4749,1978.75,2770.25
+227,2020-10-01,India,Sugar,1565,4695,1956.25,2738.75
+228,2020-10-01,India,Sugar,1496,4488,1870.0,2618.0
+229,2020-07-01,India,Sugar,866,2598,1082.5,1515.5
+230,2020-08-01,India,White Chocolate Macadamia Nut,923,5538,2538.25,2999.75
+231,2020-10-01,India,White Chocolate Macadamia Nut,2009,12054,5524.75,6529.25
+232,2020-04-01,India,White Chocolate Macadamia Nut,3851,23106,10590.25,12515.75
+233,2020-12-01,India,White Chocolate Macadamia Nut,2431,14586,6685.25,7900.75
+234,2020-02-01,India,White Chocolate Macadamia Nut,952,5712,2618.0,3094.0
+235,2020-05-01,India,White Chocolate Macadamia Nut,1262,7572,3470.5,4101.5
+236,2020-06-01,India,White Chocolate Macadamia Nut,1135,6810,3121.25,3688.75
+237,2020-12-01,India,White Chocolate Macadamia Nut,1582,9492,4350.5,5141.5
+238,2020-03-01,India,White Chocolate Macadamia Nut,598,3588,1644.5,1943.5
+239,2020-07-01,India,White Chocolate Macadamia Nut,3794,22764,10433.5,12330.5
+240,2020-09-01,India,White Chocolate Macadamia Nut,567,3402,1559.25,1842.75
+241,2020-10-01,India,White Chocolate Macadamia Nut,1269,7614,3489.75,4124.25
+242,2020-01-01,India,White Chocolate Macadamia Nut,384,2304,1056.0,1248.0
+243,2020-11-01,India,White Chocolate Macadamia Nut,1808,10848,4972.0,5876.0
+244,2020-06-01,India,White Chocolate Macadamia Nut,2632,15792,7238.0,8554.0
+245,2020-02-01,Malaysia,Chocolate Chip,974,4870,1948.0,2922.0
+246,2020-08-01,Malaysia,Chocolate Chip,883,4415,1766.0,2649.0
+247,2020-09-01,Malaysia,Chocolate Chip,2472,12360,4944.0,7416.0
+248,2020-07-01,Malaysia,Chocolate Chip,1823,9115,3646.0,5469.0
+249,2020-06-01,Malaysia,Chocolate Chip,662,3310,1324.0,1986.0
+250,2020-12-01,Malaysia,Chocolate Chip,1084,5420,2168.0,3252.0
+251,2020-10-01,Malaysia,Chocolate Chip,2031,10155,4062.0,6093.0
+252,2020-12-01,Malaysia,Chocolate Chip,1138,5690,2276.0,3414.0
+253,2020-10-01,Malaysia,Chocolate Chip,2689,13445,5378.0,8067.0
+254,2020-04-01,Malaysia,Chocolate Chip,1607,8035,3214.0,4821.0
+255,2020-03-01,Malaysia,Chocolate Chip,1114,5570,2228.0,3342.0
+256,2020-06-01,Malaysia,Chocolate Chip,2460,12300,4920.0,7380.0
+257,2020-09-01,Malaysia,Chocolate Chip,2993,14965,5986.0,8979.0
+258,2020-12-01,Malaysia,Chocolate Chip,1362,6810,2724.0,4086.0
+259,2020-01-01,Malaysia,Chocolate Chip,2565,12825,5130.0,7695.0
+260,2020-01-01,Malaysia,Chocolate Chip,2417,12085,4834.0,7251.0
+261,2020-06-01,Malaysia,Chocolate Chip,1038,5190,2076.0,3114.0
+262,2020-05-01,Malaysia,Chocolate Chip,591,2955,1182.0,1773.0
+263,2020-03-01,Malaysia,Chocolate Chip,1122,5610,2244.0,3366.0
+264,2020-08-01,Malaysia,Chocolate Chip,1984,9920,3968.0,5952.0
+265,2020-06-01,Malaysia,Chocolate Chip,886,4430,1772.0,2658.0
+266,2020-10-01,Malaysia,Chocolate Chip,2156,10780,4312.0,6468.0
+267,2020-10-01,Malaysia,Chocolate Chip,905,4525,1810.0,2715.0
+268,2020-11-01,Malaysia,Chocolate Chip,2150,10750,4300.0,6450.0
+269,2020-11-01,Malaysia,Chocolate Chip,1197,5985,2394.0,3591.0
+270,2020-12-01,Malaysia,Chocolate Chip,1233,6165,2466.0,3699.0
+271,2020-07-01,Malaysia,Chocolate Chip,571,2855,1142.0,1713.0
+272,2020-02-01,Malaysia,Chocolate Chip,260,1300,520.0,780.0
+273,2020-04-01,Malaysia,Chocolate Chip,2535,12675,5070.0,7605.0
+274,2020-05-01,Malaysia,Chocolate Chip,2851,14255,5702.0,8553.0
+275,2020-06-01,Malaysia,Fortune Cookie,2470,2470,494.0,1976.0
+276,2020-08-01,Malaysia,Fortune Cookie,958,958,191.6,766.4
+277,2020-03-01,Malaysia,Fortune Cookie,2214,2214,442.8,1771.2
+278,2020-11-01,Malaysia,Fortune Cookie,690,690,138.0,552.0
+279,2020-10-01,Malaysia,Fortune Cookie,2031,2031,406.2,1624.8
+280,2020-12-01,Malaysia,Fortune Cookie,1138,1138,227.6,910.4
+281,2020-04-01,Malaysia,Fortune Cookie,980,980,196.0,784.0
+282,2020-01-01,Malaysia,Fortune Cookie,2340,2340,468.0,1872.0
+283,2020-12-01,Malaysia,Fortune Cookie,2157,2157,431.4,1725.6
+284,2020-09-01,Malaysia,Fortune Cookie,2420,2420,484.0,1936.0
+285,2020-05-01,Malaysia,Fortune Cookie,2661,2661,532.2,2128.8
+286,2020-06-01,Malaysia,Fortune Cookie,604,604,120.8,483.2
+287,2020-07-01,Malaysia,Fortune Cookie,2255,2255,451.0,1804.0
+288,2020-10-01,Malaysia,Fortune Cookie,546,546,109.2,436.8
+289,2020-02-01,Malaysia,Fortune Cookie,1368,1368,273.6,1094.4
+290,2020-03-01,Malaysia,Oatmeal Raisin,1101,5505,2422.2,3082.8
+291,2020-02-01,Malaysia,Oatmeal Raisin,1865,9325,4103.0,5222.0
+292,2020-04-01,Malaysia,Oatmeal Raisin,1074,5370,2362.8,3007.2
+293,2020-07-01,Malaysia,Oatmeal Raisin,1683,8415,3702.6,4712.4
+294,2020-08-01,Malaysia,Oatmeal Raisin,1123,5615,2470.6,3144.4
+295,2020-09-01,Malaysia,Oatmeal Raisin,1679,8395,3693.8,4701.2
+296,2020-06-01,Malaysia,Oatmeal Raisin,2460,12300,5412.0,6888.0
+297,2020-12-01,Malaysia,Oatmeal Raisin,635,3175,1397.0,1778.0
+298,2020-11-01,Malaysia,Oatmeal Raisin,1694,8470,3726.8,4743.2
+299,2020-06-01,Malaysia,Oatmeal Raisin,1038,5190,2283.6,2906.4
+300,2020-05-01,Malaysia,Oatmeal Raisin,2039,10195,4485.8,5709.2
+301,2020-01-01,Malaysia,Oatmeal Raisin,2629,13145,5783.8,7361.2
+302,2020-12-01,Malaysia,Oatmeal Raisin,2157,10785,4745.4,6039.6
+303,2020-10-01,Malaysia,Oatmeal Raisin,410,2050,902.0,1148.0
+304,2020-10-01,Malaysia,Oatmeal Raisin,546,2730,1201.2,1528.8
+305,2020-06-01,Malaysia,Snickerdoodle,2470,9880,3705.0,6175.0
+306,2020-03-01,Malaysia,Snickerdoodle,1210,4840,1815.0,3025.0
+307,2020-10-01,Malaysia,Snickerdoodle,1397,5588,2095.5,3492.5
+308,2020-11-01,Malaysia,Snickerdoodle,2791,11164,4186.5,6977.5
+309,2020-09-01,Malaysia,Snickerdoodle,562,2248,843.0,1405.0
+310,2020-02-01,Malaysia,Snickerdoodle,727,2908,1090.5,1817.5
+311,2020-08-01,Malaysia,Snickerdoodle,1540,6160,2310.0,3850.0
+312,2020-12-01,Malaysia,Snickerdoodle,1362,5448,2043.0,3405.0
+313,2020-12-01,Malaysia,Snickerdoodle,521,2084,781.5,1302.5
+314,2020-06-01,Malaysia,Snickerdoodle,886,3544,1329.0,2215.0
+315,2020-10-01,Malaysia,Snickerdoodle,2156,8624,3234.0,5390.0
+316,2020-04-01,Malaysia,Snickerdoodle,2579,10316,3868.5,6447.5
+317,2020-07-01,Malaysia,Snickerdoodle,801,3204,1201.5,2002.5
+318,2020-10-01,Malaysia,Sugar,1397,4191,1746.25,2444.75
+319,2020-06-01,Malaysia,Sugar,662,1986,827.5,1158.5
+320,2020-04-01,Malaysia,Sugar,1916,5748,2395.0,3353.0
+321,2020-08-01,Malaysia,Sugar,1642,4926,2052.5,2873.5
+322,2020-10-01,Malaysia,Sugar,2689,8067,3361.25,4705.75
+323,2020-06-01,Malaysia,Sugar,1498,4494,1872.5,2621.5
+324,2020-02-01,Malaysia,Sugar,2747,8241,3433.75,4807.25
+325,2020-11-01,Malaysia,Sugar,877,2631,1096.25,1534.75
+326,2020-12-01,Malaysia,Sugar,521,1563,651.25,911.75
+327,2020-05-01,Malaysia,Sugar,341,1023,426.25,596.75
+328,2020-07-01,Malaysia,Sugar,641,1923,801.25,1121.75
+329,2020-09-01,Malaysia,Sugar,432,1296,540.0,756.0
+330,2020-01-01,Malaysia,Sugar,554,1662,692.5,969.5
+331,2020-12-01,Malaysia,Sugar,1233,3699,1541.25,2157.75
+332,2020-03-01,Malaysia,Sugar,2903,8709,3628.75,5080.25
+333,2020-01-01,Malaysia,White Chocolate Macadamia Nut,1493,8958,4105.75,4852.25
+334,2020-05-01,Malaysia,White Chocolate Macadamia Nut,362,2172,995.5,1176.5
+335,2020-12-01,Malaysia,White Chocolate Macadamia Nut,1084,6504,2981.0,3523.0
+336,2020-01-01,Malaysia,White Chocolate Macadamia Nut,2861,17166,7867.75,9298.25
+337,2020-06-01,Malaysia,White Chocolate Macadamia Nut,1498,8988,4119.5,4868.5
+338,2020-11-01,Malaysia,White Chocolate Macadamia Nut,1333,7998,3665.75,4332.25
+339,2020-08-01,Malaysia,White Chocolate Macadamia Nut,609,3654,1674.75,1979.25
+340,2020-12-01,Malaysia,White Chocolate Macadamia Nut,635,3810,1746.25,2063.75
+341,2020-05-01,Malaysia,White Chocolate Macadamia Nut,245,1470,673.75,796.25
+342,2020-09-01,Malaysia,White Chocolate Macadamia Nut,2110,12660,5802.5,6857.5
+343,2020-04-01,Malaysia,White Chocolate Macadamia Nut,2628,15768,7227.0,8541.0
+344,2020-07-01,Malaysia,White Chocolate Macadamia Nut,1395,8370,3836.25,4533.75
+345,2020-10-01,Malaysia,White Chocolate Macadamia Nut,905,5430,2488.75,2941.25
+346,2020-06-01,Malaysia,White Chocolate Macadamia Nut,604,3624,1661.0,1963.0
+347,2020-10-01,Malaysia,White Chocolate Macadamia Nut,410,2460,1127.5,1332.5
+348,2020-02-01,Malaysia,White Chocolate Macadamia Nut,1575,9450,4331.25,5118.75
+349,2020-03-01,Malaysia,White Chocolate Macadamia Nut,500,3000,1375.0,1625.0
+350,2019-09-01,Malaysia,Chocolate Chip,788,3940,1576.0,2364.0
+351,2019-10-01,Malaysia,Chocolate Chip,2145,10725,4290.0,6435.0
+352,2019-09-01,Malaysia,Chocolate Chip,1760,8800,3520.0,5280.0
+353,2019-10-01,Malaysia,Chocolate Chip,1514,7570,3028.0,4542.0
+354,2019-11-01,Malaysia,Chocolate Chip,2763,13815,5526.0,8289.0
+355,2019-12-01,Malaysia,Chocolate Chip,1946,9730,3892.0,5838.0
+356,2019-10-01,Malaysia,Chocolate Chip,367,1835,734.0,1101.0
+357,2019-10-01,Malaysia,Chocolate Chip,1715,8575,3430.0,5145.0
+358,2019-12-01,Malaysia,Chocolate Chip,380,1900,760.0,1140.0
+359,2019-11-01,Malaysia,Chocolate Chip,2151,10755,4302.0,6453.0
+360,2019-11-01,Malaysia,Fortune Cookie,1660,1660,332.0,1328.0
+361,2019-09-01,Malaysia,Fortune Cookie,720,720,144.0,576.0
+362,2019-12-01,Malaysia,Fortune Cookie,1100,1100,220.0,880.0
+363,2019-10-01,Malaysia,Fortune Cookie,1715,1715,343.0,1372.0
+364,2019-10-01,Malaysia,Fortune Cookie,1727,1727,345.4,1381.6
+365,2019-12-01,Malaysia,Oatmeal Raisin,1375,6875,3025.0,3850.0
+366,2019-09-01,Malaysia,Oatmeal Raisin,947,4735,2083.4,2651.6
+367,2019-10-01,Malaysia,Oatmeal Raisin,344,1720,756.8,963.2
+368,2019-10-01,Malaysia,Oatmeal Raisin,1727,8635,3799.4,4835.6
+369,2019-11-01,Malaysia,Oatmeal Raisin,1870,9350,4114.0,5236.0
+370,2019-10-01,Malaysia,Snickerdoodle,494,1976,741.0,1235.0
+371,2019-09-01,Malaysia,Snickerdoodle,1834,7336,2751.0,4585.0
+372,2019-10-01,Malaysia,Snickerdoodle,367,1468,550.5,917.5
+373,2019-11-01,Malaysia,Snickerdoodle,2706,10824,4059.0,6765.0
+374,2019-12-01,Malaysia,Snickerdoodle,2821,11284,4231.5,7052.5
+375,2019-10-01,Malaysia,Sugar,494,1482,617.5,864.5
+376,2019-12-01,Malaysia,Sugar,1940,5820,2425.0,3395.0
+377,2019-10-01,Malaysia,Sugar,1514,4542,1892.5,2649.5
+378,2019-11-01,Malaysia,Sugar,1123,3369,1403.75,1965.25
+379,2019-09-01,Malaysia,Sugar,1005,3015,1256.25,1758.75
+380,2019-10-01,Malaysia,White Chocolate Macadamia Nut,2145,12870,5898.75,6971.25
+381,2019-12-01,Malaysia,White Chocolate Macadamia Nut,544,3264,1496.0,1768.0
+382,2019-09-01,Malaysia,White Chocolate Macadamia Nut,655,3930,1801.25,2128.75
+383,2019-10-01,Malaysia,White Chocolate Macadamia Nut,344,2064,946.0,1118.0
+384,2019-11-01,Malaysia,White Chocolate Macadamia Nut,2605,15630,7163.75,8466.25
+385,2020-02-01,Malaysia,Chocolate Chip,974,4870,1948.0,2922.0
+386,2020-08-01,Malaysia,Chocolate Chip,883,4415,1766.0,2649.0
+387,2020-09-01,Malaysia,Chocolate Chip,2472,12360,4944.0,7416.0
+388,2020-07-01,Malaysia,Chocolate Chip,1823,9115,3646.0,5469.0
+389,2020-06-01,Malaysia,Chocolate Chip,662,3310,1324.0,1986.0
+390,2020-12-01,Malaysia,Chocolate Chip,1084,5420,2168.0,3252.0
+391,2020-10-01,Malaysia,Chocolate Chip,2031,10155,4062.0,6093.0
+392,2020-12-01,Malaysia,Chocolate Chip,1138,5690,2276.0,3414.0
+393,2020-10-01,Malaysia,Chocolate Chip,2689,13445,5378.0,8067.0
+394,2020-04-01,Malaysia,Chocolate Chip,1607,8035,3214.0,4821.0
+395,2020-03-01,Malaysia,Chocolate Chip,1114,5570,2228.0,3342.0
+396,2020-06-01,Malaysia,Chocolate Chip,2460,12300,4920.0,7380.0
+397,2020-09-01,Malaysia,Chocolate Chip,2993,14965,5986.0,8979.0
+398,2020-12-01,Malaysia,Chocolate Chip,1362,6810,2724.0,4086.0
+399,2020-01-01,Malaysia,Chocolate Chip,2565,12825,5130.0,7695.0
+400,2020-01-01,Malaysia,Chocolate Chip,2417,12085,4834.0,7251.0
+401,2020-06-01,Malaysia,Chocolate Chip,1038,5190,2076.0,3114.0
+402,2020-05-01,Malaysia,Chocolate Chip,591,2955,1182.0,1773.0
+403,2020-03-01,Malaysia,Chocolate Chip,1122,5610,2244.0,3366.0
+404,2020-08-01,Malaysia,Chocolate Chip,1984,9920,3968.0,5952.0
+405,2020-06-01,Malaysia,Chocolate Chip,886,4430,1772.0,2658.0
+406,2020-10-01,Malaysia,Chocolate Chip,2156,10780,4312.0,6468.0
+407,2020-10-01,Malaysia,Chocolate Chip,905,4525,1810.0,2715.0
+408,2020-11-01,Malaysia,Chocolate Chip,2150,10750,4300.0,6450.0
+409,2020-11-01,Malaysia,Chocolate Chip,1197,5985,2394.0,3591.0
+410,2020-12-01,Malaysia,Chocolate Chip,1233,6165,2466.0,3699.0
+411,2020-07-01,Malaysia,Chocolate Chip,571,2855,1142.0,1713.0
+412,2020-02-01,Malaysia,Chocolate Chip,260,1300,520.0,780.0
+413,2020-04-01,Malaysia,Chocolate Chip,2535,12675,5070.0,7605.0
+414,2020-05-01,Malaysia,Chocolate Chip,2851,14255,5702.0,8553.0
+415,2020-06-01,Malaysia,Fortune Cookie,2470,2470,494.0,1976.0
+416,2020-08-01,Malaysia,Fortune Cookie,958,958,191.6,766.4
+417,2020-03-01,Malaysia,Fortune Cookie,2214,2214,442.8,1771.2
+418,2020-11-01,Malaysia,Fortune Cookie,690,690,138.0,552.0
+419,2020-10-01,Malaysia,Fortune Cookie,2031,2031,406.2,1624.8
+420,2020-12-01,Malaysia,Fortune Cookie,1138,1138,227.6,910.4
+421,2020-04-01,Malaysia,Fortune Cookie,980,980,196.0,784.0
+422,2020-01-01,Malaysia,Fortune Cookie,2340,2340,468.0,1872.0
+423,2020-12-01,Malaysia,Fortune Cookie,2157,2157,431.4,1725.6
+424,2020-09-01,Malaysia,Fortune Cookie,2420,2420,484.0,1936.0
+425,2020-05-01,Malaysia,Fortune Cookie,2661,2661,532.2,2128.8
+426,2020-06-01,Malaysia,Fortune Cookie,604,604,120.8,483.2
+427,2020-07-01,Malaysia,Fortune Cookie,2255,2255,451.0,1804.0
+428,2020-10-01,Malaysia,Fortune Cookie,546,546,109.2,436.8
+429,2020-02-01,Malaysia,Fortune Cookie,1368,1368,273.6,1094.4
+430,2020-03-01,Malaysia,Oatmeal Raisin,1101,5505,2422.2,3082.8
+431,2020-02-01,Malaysia,Oatmeal Raisin,1865,9325,4103.0,5222.0
+432,2020-04-01,Malaysia,Oatmeal Raisin,1074,5370,2362.8,3007.2
+433,2020-07-01,Malaysia,Oatmeal Raisin,1683,8415,3702.6,4712.4
+434,2020-08-01,Malaysia,Oatmeal Raisin,1123,5615,2470.6,3144.4
+435,2020-09-01,Malaysia,Oatmeal Raisin,1679,8395,3693.8,4701.2
+436,2020-06-01,Malaysia,Oatmeal Raisin,2460,12300,5412.0,6888.0
+437,2020-12-01,Malaysia,Oatmeal Raisin,635,3175,1397.0,1778.0
+438,2020-11-01,Malaysia,Oatmeal Raisin,1694,8470,3726.8,4743.2
+439,2020-06-01,Malaysia,Oatmeal Raisin,1038,5190,2283.6,2906.4
+440,2020-05-01,Malaysia,Oatmeal Raisin,2039,10195,4485.8,5709.2
+441,2020-01-01,Malaysia,Oatmeal Raisin,2629,13145,5783.8,7361.2
+442,2020-12-01,Malaysia,Oatmeal Raisin,2157,10785,4745.4,6039.6
+443,2020-10-01,Malaysia,Oatmeal Raisin,410,2050,902.0,1148.0
+444,2020-10-01,Malaysia,Oatmeal Raisin,546,2730,1201.2,1528.8
+445,2020-06-01,Malaysia,Snickerdoodle,2470,9880,3705.0,6175.0
+446,2020-03-01,Malaysia,Snickerdoodle,1210,4840,1815.0,3025.0
+447,2020-10-01,Malaysia,Snickerdoodle,1397,5588,2095.5,3492.5
+448,2020-11-01,Malaysia,Snickerdoodle,2791,11164,4186.5,6977.5
+449,2020-09-01,Malaysia,Snickerdoodle,562,2248,843.0,1405.0
+450,2020-02-01,Malaysia,Snickerdoodle,727,2908,1090.5,1817.5
+451,2020-08-01,Malaysia,Snickerdoodle,1540,6160,2310.0,3850.0
+452,2020-12-01,Malaysia,Snickerdoodle,1362,5448,2043.0,3405.0
+453,2020-12-01,Malaysia,Snickerdoodle,521,2084,781.5,1302.5
+454,2020-06-01,Malaysia,Snickerdoodle,886,3544,1329.0,2215.0
+455,2020-10-01,Malaysia,Snickerdoodle,2156,8624,3234.0,5390.0
+456,2020-04-01,Malaysia,Snickerdoodle,2579,10316,3868.5,6447.5
+457,2020-07-01,Malaysia,Snickerdoodle,801,3204,1201.5,2002.5
+458,2020-10-01,Malaysia,Sugar,1397,4191,1746.25,2444.75
+459,2020-06-01,Malaysia,Sugar,662,1986,827.5,1158.5
+460,2020-04-01,Malaysia,Sugar,1916,5748,2395.0,3353.0
+461,2020-08-01,Malaysia,Sugar,1642,4926,2052.5,2873.5
+462,2020-10-01,Malaysia,Sugar,2689,8067,3361.25,4705.75
+463,2020-06-01,Malaysia,Sugar,1498,4494,1872.5,2621.5
+464,2020-02-01,Malaysia,Sugar,2747,8241,3433.75,4807.25
+465,2020-11-01,Malaysia,Sugar,877,2631,1096.25,1534.75
+466,2020-12-01,Malaysia,Sugar,521,1563,651.25,911.75
+467,2020-05-01,Malaysia,Sugar,341,1023,426.25,596.75
+468,2020-07-01,Malaysia,Sugar,641,1923,801.25,1121.75
+469,2020-09-01,Malaysia,Sugar,432,1296,540.0,756.0
+470,2020-01-01,Malaysia,Sugar,554,1662,692.5,969.5
+471,2020-12-01,Malaysia,Sugar,1233,3699,1541.25,2157.75
+472,2020-03-01,Malaysia,Sugar,2903,8709,3628.75,5080.25
+473,2020-01-01,Malaysia,White Chocolate Macadamia Nut,1493,8958,4105.75,4852.25
+474,2020-05-01,Malaysia,White Chocolate Macadamia Nut,362,2172,995.5,1176.5
+475,2020-12-01,Malaysia,White Chocolate Macadamia Nut,1084,6504,2981.0,3523.0
+476,2020-01-01,Malaysia,White Chocolate Macadamia Nut,2861,17166,7867.75,9298.25
+477,2020-06-01,Malaysia,White Chocolate Macadamia Nut,1498,8988,4119.5,4868.5
+478,2020-11-01,Malaysia,White Chocolate Macadamia Nut,1333,7998,3665.75,4332.25
+479,2020-08-01,Malaysia,White Chocolate Macadamia Nut,609,3654,1674.75,1979.25
+480,2020-12-01,Malaysia,White Chocolate Macadamia Nut,635,3810,1746.25,2063.75
+481,2020-05-01,Malaysia,White Chocolate Macadamia Nut,245,1470,673.75,796.25
+482,2020-09-01,Malaysia,White Chocolate Macadamia Nut,2110,12660,5802.5,6857.5
+483,2020-04-01,Malaysia,White Chocolate Macadamia Nut,2628,15768,7227.0,8541.0
+484,2020-07-01,Malaysia,White Chocolate Macadamia Nut,1395,8370,3836.25,4533.75
+485,2020-10-01,Malaysia,White Chocolate Macadamia Nut,905,5430,2488.75,2941.25
+486,2020-06-01,Malaysia,White Chocolate Macadamia Nut,604,3624,1661.0,1963.0
+487,2020-10-01,Malaysia,White Chocolate Macadamia Nut,410,2460,1127.5,1332.5
+488,2020-02-01,Malaysia,White Chocolate Macadamia Nut,1575,9450,4331.25,5118.75
+489,2020-03-01,Malaysia,White Chocolate Macadamia Nut,500,3000,1375.0,1625.0
+490,2020-06-01,Philippines,Chocolate Chip,1006,5030,2012.0,3018.0
+491,2020-07-01,Philippines,Chocolate Chip,367,1835,734.0,1101.0
+492,2020-12-01,Philippines,Chocolate Chip,1513,7565,3026.0,4539.0
+493,2020-09-01,Philippines,Chocolate Chip,747,3735,1494.0,2241.0
+494,2020-05-01,Philippines,Chocolate Chip,1728,8640,3456.0,5184.0
+495,2020-06-01,Philippines,Chocolate Chip,689,3445,1378.0,2067.0
+496,2020-06-01,Philippines,Chocolate Chip,1570,7850,3140.0,4710.0
+497,2020-12-01,Philippines,Chocolate Chip,1706,8530,3412.0,5118.0
+498,2020-03-01,Philippines,Chocolate Chip,795,3975,1590.0,2385.0
+499,2020-04-01,Philippines,Chocolate Chip,1415,7075,2830.0,4245.0
+500,2020-01-01,Philippines,Chocolate Chip,1372,6860,2744.0,4116.0
+501,2020-08-01,Philippines,Chocolate Chip,1743,8715,3486.0,5229.0
+502,2020-07-01,Philippines,Chocolate Chip,3513,17565,7026.0,10539.0
+503,2020-04-01,Philippines,Chocolate Chip,1259,6295,2518.0,3777.0
+504,2020-05-01,Philippines,Chocolate Chip,1095,5475,2190.0,3285.0
+505,2020-06-01,Philippines,Chocolate Chip,1366,6830,2732.0,4098.0
+506,2020-08-01,Philippines,Chocolate Chip,1598,7990,3196.0,4794.0
+507,2020-09-01,Philippines,Chocolate Chip,1934,9670,3868.0,5802.0
+508,2020-10-01,Philippines,Chocolate Chip,360,1800,720.0,1080.0
+509,2020-10-01,Philippines,Chocolate Chip,241,1205,482.0,723.0
+510,2020-11-01,Philippines,Chocolate Chip,1359,6795,2718.0,4077.0
+511,2020-12-01,Philippines,Chocolate Chip,1531,7655,3062.0,4593.0
+512,2020-01-01,Philippines,Chocolate Chip,807,4035,1614.0,2421.0
+513,2020-02-01,Philippines,Chocolate Chip,2708,13540,5416.0,8124.0
+514,2020-11-01,Philippines,Chocolate Chip,357,1785,714.0,1071.0
+515,2020-12-01,Philippines,Chocolate Chip,1013,5065,2026.0,3039.0
+516,2020-02-01,Philippines,Chocolate Chip,278,1390,556.0,834.0
+517,2020-03-01,Philippines,Chocolate Chip,1158,5790,2316.0,3474.0
+518,2020-10-01,Philippines,Chocolate Chip,1085,5425,2170.0,3255.0
+519,2020-10-01,Philippines,Chocolate Chip,1175,5875,2350.0,3525.0
+520,2020-03-01,Philippines,Fortune Cookie,921,921,184.2,736.8
+521,2020-06-01,Philippines,Fortune Cookie,1545,1545,309.0,1236.0
+522,2020-09-01,Philippines,Fortune Cookie,2146,2146,429.2,1716.8
+523,2020-02-01,Philippines,Fortune Cookie,1958,1958,391.6,1566.4
+524,2020-12-01,Philippines,Fortune Cookie,1706,1706,341.2,1364.8
+525,2020-08-01,Philippines,Fortune Cookie,1859,1859,371.8,1487.2
+526,2020-10-01,Philippines,Fortune Cookie,2021,2021,404.2,1616.8
+527,2020-11-01,Philippines,Fortune Cookie,2342,2342,468.4,1873.6
+528,2020-05-01,Philippines,Fortune Cookie,1460,1460,292.0,1168.0
+529,2020-07-01,Philippines,Fortune Cookie,645,645,129.0,516.0
+530,2020-12-01,Philippines,Fortune Cookie,711,711,142.2,568.8
+531,2020-01-01,Philippines,Fortune Cookie,766,766,153.2,612.8
+532,2020-04-01,Philippines,Fortune Cookie,1199,1199,239.8,959.2
+533,2020-04-01,Philippines,Oatmeal Raisin,4220,21100,9284.0,11816.0
+534,2020-07-01,Philippines,Oatmeal Raisin,1686,8430,3709.2,4720.8
+535,2020-03-01,Philippines,Oatmeal Raisin,259,1295,569.8,725.2
+536,2020-05-01,Philippines,Oatmeal Raisin,2276,11380,5007.2,6372.8
+537,2020-09-01,Philippines,Oatmeal Raisin,1907,9535,4195.4,5339.6
+538,2020-02-01,Philippines,Oatmeal Raisin,1350,6750,2970.0,3780.0
+539,2020-12-01,Philippines,Oatmeal Raisin,1250,6250,2750.0,3500.0
+540,2020-06-01,Philippines,Oatmeal Raisin,1366,6830,3005.2,3824.8
+541,2020-11-01,Philippines,Oatmeal Raisin,1520,7600,3344.0,4256.0
+542,2020-12-01,Philippines,Oatmeal Raisin,711,3555,1564.2,1990.8
+543,2020-08-01,Philippines,Oatmeal Raisin,2574,12870,5662.8,7207.2
+544,2020-10-01,Philippines,Oatmeal Raisin,472,2360,1038.4,1321.6
+545,2020-01-01,Philippines,Oatmeal Raisin,3165,15825,6963.0,8862.0
+546,2020-01-01,Philippines,Snickerdoodle,1321,5284,1981.5,3302.5
+547,2020-06-01,Philippines,Snickerdoodle,888,3552,1332.0,2220.0
+548,2020-12-01,Philippines,Snickerdoodle,1513,6052,2269.5,3782.5
+549,2020-04-01,Philippines,Snickerdoodle,2580,10320,3870.0,6450.0
+550,2020-06-01,Philippines,Snickerdoodle,689,2756,1033.5,1722.5
+551,2020-10-01,Philippines,Snickerdoodle,2021,8084,3031.5,5052.5
+552,2020-02-01,Philippines,Snickerdoodle,1116,4464,1674.0,2790.0
+553,2020-05-01,Philippines,Snickerdoodle,663,2652,994.5,1657.5
+554,2020-09-01,Philippines,Snickerdoodle,1580,6320,2370.0,3950.0
+555,2020-03-01,Philippines,Snickerdoodle,792,3168,1188.0,1980.0
+556,2020-07-01,Philippines,Snickerdoodle,2811,11244,4216.5,7027.5
+557,2020-12-01,Philippines,Snickerdoodle,280,1120,420.0,700.0
+558,2020-11-01,Philippines,Snickerdoodle,1513,6052,2269.5,3782.5
+559,2020-08-01,Philippines,Snickerdoodle,2767,11068,4150.5,6917.5
+560,2020-10-01,Philippines,Snickerdoodle,1085,4340,1627.5,2712.5
+561,2020-04-01,Philippines,Sugar,2838,8514,3547.5,4966.5
+562,2020-06-01,Philippines,Sugar,888,2664,1110.0,1554.0
+563,2020-03-01,Philippines,Sugar,263,789,328.75,460.25
+564,2020-09-01,Philippines,Sugar,986,2958,1232.5,1725.5
+565,2020-10-01,Philippines,Sugar,2877,8631,3596.25,5034.75
+566,2020-06-01,Philippines,Sugar,1570,4710,1962.5,2747.5
+567,2020-01-01,Philippines,Sugar,2479,7437,3098.75,4338.25
+568,2020-06-01,Philippines,Sugar,2338,7014,2922.5,4091.5
+569,2020-08-01,Philippines,Sugar,422,1266,527.5,738.5
+570,2020-02-01,Philippines,Sugar,2659,7977,3323.75,4653.25
+571,2020-05-01,Philippines,Sugar,880,2640,1100.0,1540.0
+572,2020-10-01,Philippines,Sugar,360,1080,450.0,630.0
+573,2020-12-01,Philippines,Sugar,1531,4593,1913.75,2679.25
+574,2020-12-01,Philippines,Sugar,280,840,350.0,490.0
+575,2020-07-01,Philippines,Sugar,492,1476,615.0,861.0
+576,2020-10-01,Philippines,Sugar,1175,3525,1468.75,2056.25
+577,2020-11-01,Philippines,Sugar,552,1656,690.0,966.0
+578,2020-03-01,Philippines,White Chocolate Macadamia Nut,2161,12966,5942.75,7023.25
+579,2020-06-01,Philippines,White Chocolate Macadamia Nut,1006,6036,2766.5,3269.5
+580,2020-06-01,Philippines,White Chocolate Macadamia Nut,1545,9270,4248.75,5021.25
+581,2020-10-01,Philippines,White Chocolate Macadamia Nut,2877,17262,7911.75,9350.25
+582,2020-02-01,Philippines,White Chocolate Macadamia Nut,807,4842,2219.25,2622.75
+583,2020-12-01,Philippines,White Chocolate Macadamia Nut,1250,7500,3437.5,4062.5
+584,2020-05-01,Philippines,White Chocolate Macadamia Nut,1530,9180,4207.5,4972.5
+585,2020-08-01,Philippines,White Chocolate Macadamia Nut,1001,6006,2752.75,3253.25
+586,2020-09-01,Philippines,White Chocolate Macadamia Nut,2087,12522,5739.25,6782.75
+587,2020-06-01,Philippines,White Chocolate Macadamia Nut,2338,14028,6429.5,7598.5
+588,2020-07-01,Philippines,White Chocolate Macadamia Nut,1307,7842,3594.25,4247.75
+589,2020-01-01,Philippines,White Chocolate Macadamia Nut,681,4086,1872.75,2213.25
+590,2020-04-01,Philippines,White Chocolate Macadamia Nut,510,3060,1402.5,1657.5
+591,2020-10-01,Philippines,White Chocolate Macadamia Nut,241,1446,662.75,783.25
+592,2020-11-01,Philippines,White Chocolate Macadamia Nut,2665,15990,7328.75,8661.25
+593,2020-10-01,Philippines,White Chocolate Macadamia Nut,472,2832,1298.0,1534.0
+594,2020-12-01,Philippines,White Chocolate Macadamia Nut,1013,6078,2785.75,3292.25
+595,2019-10-01,Philippines,Chocolate Chip,766,3830,1532.0,2298.0
+596,2019-10-01,Philippines,Chocolate Chip,809,4045,1618.0,2427.0
+597,2019-10-01,Philippines,Chocolate Chip,1945,9725,3890.0,5835.0
+598,2019-12-01,Philippines,Chocolate Chip,2116,10580,4232.0,6348.0
+599,2019-09-01,Philippines,Chocolate Chip,1123,5615,2246.0,3369.0
+600,2019-12-01,Philippines,Chocolate Chip,2125,10625,4250.0,6375.0
+601,2019-09-01,Philippines,Chocolate Chip,2409,12045,4818.0,7227.0
+602,2019-11-01,Philippines,Chocolate Chip,2146,10730,4292.0,6438.0
+603,2019-11-01,Philippines,Chocolate Chip,1775,8875,3550.0,5325.0
+604,2019-10-01,Philippines,Chocolate Chip,2992,14960,5984.0,8976.0
+605,2019-09-01,Philippines,Fortune Cookie,1797,1797,359.4,1437.6
+606,2019-10-01,Philippines,Fortune Cookie,1159,1159,231.8,927.2
+607,2019-11-01,Philippines,Fortune Cookie,2500,2500,500.0,2000.0
+608,2019-12-01,Philippines,Fortune Cookie,334,334,66.8,267.2
+609,2019-10-01,Philippines,Fortune Cookie,2992,2992,598.4,2393.6
+610,2019-10-01,Philippines,Oatmeal Raisin,2966,14830,6525.2,8304.8
+611,2019-10-01,Philippines,Oatmeal Raisin,1159,5795,2549.8,3245.2
+612,2019-09-01,Philippines,Oatmeal Raisin,994,4970,2186.8,2783.2
+613,2019-11-01,Philippines,Oatmeal Raisin,970,4850,2134.0,2716.0
+614,2019-12-01,Philippines,Oatmeal Raisin,1770,8850,3894.0,4956.0
+615,2019-10-01,Philippines,Snickerdoodle,766,3064,1149.0,1915.0
+616,2019-10-01,Philippines,Snickerdoodle,214,856,321.0,535.0
+617,2019-11-01,Philippines,Snickerdoodle,1016,4064,1524.0,2540.0
+618,2019-12-01,Philippines,Snickerdoodle,887,3548,1330.5,2217.5
+619,2019-09-01,Philippines,Snickerdoodle,442,1768,663.0,1105.0
+620,2019-10-01,Philippines,Sugar,214,642,267.5,374.5
+621,2019-10-01,Philippines,Sugar,1945,5835,2431.25,3403.75
+622,2019-11-01,Philippines,Sugar,2297,6891,2871.25,4019.75
+623,2019-09-01,Philippines,Sugar,2215,6645,2768.75,3876.25
+624,2019-12-01,Philippines,Sugar,1870,5610,2337.5,3272.5
+625,2019-10-01,Philippines,White Chocolate Macadamia Nut,2966,17796,8156.5,9639.5
+626,2019-10-01,Philippines,White Chocolate Macadamia Nut,809,4854,2224.75,2629.25
+627,2019-12-01,Philippines,White Chocolate Macadamia Nut,588,3528,1617.0,1911.0
+628,2019-09-01,Philippines,White Chocolate Macadamia Nut,660,3960,1815.0,2145.0
+629,2019-11-01,Philippines,White Chocolate Macadamia Nut,2536,15216,6974.0,8242.0
+630,2020-06-01,Philippines,Chocolate Chip,1006,5030,2012.0,3018.0
+631,2020-07-01,Philippines,Chocolate Chip,367,1835,734.0,1101.0
+632,2020-12-01,Philippines,Chocolate Chip,1513,7565,3026.0,4539.0
+633,2020-09-01,Philippines,Chocolate Chip,747,3735,1494.0,2241.0
+634,2020-05-01,Philippines,Chocolate Chip,1728,8640,3456.0,5184.0
+635,2020-06-01,Philippines,Chocolate Chip,689,3445,1378.0,2067.0
+636,2020-06-01,Philippines,Chocolate Chip,1570,7850,3140.0,4710.0
+637,2020-12-01,Philippines,Chocolate Chip,1706,8530,3412.0,5118.0
+638,2020-03-01,Philippines,Chocolate Chip,795,3975,1590.0,2385.0
+639,2020-04-01,Philippines,Chocolate Chip,1415,7075,2830.0,4245.0
+640,2020-01-01,Philippines,Chocolate Chip,1372,6860,2744.0,4116.0
+641,2020-08-01,Philippines,Chocolate Chip,1743,8715,3486.0,5229.0
+642,2020-07-01,Philippines,Chocolate Chip,3513,17565,7026.0,10539.0
+643,2020-04-01,Philippines,Chocolate Chip,1259,6295,2518.0,3777.0
+644,2020-05-01,Philippines,Chocolate Chip,1095,5475,2190.0,3285.0
+645,2020-06-01,Philippines,Chocolate Chip,1366,6830,2732.0,4098.0
+646,2020-08-01,Philippines,Chocolate Chip,1598,7990,3196.0,4794.0
+647,2020-09-01,Philippines,Chocolate Chip,1934,9670,3868.0,5802.0
+648,2020-10-01,Philippines,Chocolate Chip,360,1800,720.0,1080.0
+649,2020-10-01,Philippines,Chocolate Chip,241,1205,482.0,723.0
+650,2020-11-01,Philippines,Chocolate Chip,1359,6795,2718.0,4077.0
+651,2020-12-01,Philippines,Chocolate Chip,1531,7655,3062.0,4593.0
+652,2020-01-01,Philippines,Chocolate Chip,807,4035,1614.0,2421.0
+653,2020-02-01,Philippines,Chocolate Chip,2708,13540,5416.0,8124.0
+654,2020-11-01,Philippines,Chocolate Chip,357,1785,714.0,1071.0
+655,2020-12-01,Philippines,Chocolate Chip,1013,5065,2026.0,3039.0
+656,2020-02-01,Philippines,Chocolate Chip,278,1390,556.0,834.0
+657,2020-03-01,Philippines,Chocolate Chip,1158,5790,2316.0,3474.0
+658,2020-10-01,Philippines,Chocolate Chip,1085,5425,2170.0,3255.0
+659,2020-10-01,Philippines,Chocolate Chip,1175,5875,2350.0,3525.0
+660,2020-03-01,Philippines,Fortune Cookie,921,921,184.2,736.8
+661,2020-06-01,Philippines,Fortune Cookie,1545,1545,309.0,1236.0
+662,2020-09-01,Philippines,Fortune Cookie,2146,2146,429.2,1716.8
+663,2020-02-01,Philippines,Fortune Cookie,1958,1958,391.6,1566.4
+664,2020-12-01,Philippines,Fortune Cookie,1706,1706,341.2,1364.8
+665,2020-08-01,Philippines,Fortune Cookie,1859,1859,371.8,1487.2
+666,2020-10-01,Philippines,Fortune Cookie,2021,2021,404.2,1616.8
+667,2020-11-01,Philippines,Fortune Cookie,2342,2342,468.4,1873.6
+668,2020-05-01,Philippines,Fortune Cookie,1460,1460,292.0,1168.0
+669,2020-07-01,Philippines,Fortune Cookie,645,645,129.0,516.0
+670,2020-12-01,Philippines,Fortune Cookie,711,711,142.2,568.8
+671,2020-01-01,Philippines,Fortune Cookie,766,766,153.2,612.8
+672,2020-04-01,Philippines,Fortune Cookie,1199,1199,239.8,959.2
+673,2020-04-01,Philippines,Oatmeal Raisin,4220,21100,9284.0,11816.0
+674,2020-07-01,Philippines,Oatmeal Raisin,1686,8430,3709.2,4720.8
+675,2020-03-01,Philippines,Oatmeal Raisin,259,1295,569.8,725.2
+676,2020-05-01,Philippines,Oatmeal Raisin,2276,11380,5007.2,6372.8
+677,2020-09-01,Philippines,Oatmeal Raisin,1907,9535,4195.4,5339.6
+678,2020-02-01,Philippines,Oatmeal Raisin,1350,6750,2970.0,3780.0
+679,2020-12-01,Philippines,Oatmeal Raisin,1250,6250,2750.0,3500.0
+680,2020-06-01,Philippines,Oatmeal Raisin,1366,6830,3005.2,3824.8
+681,2020-11-01,Philippines,Oatmeal Raisin,1520,7600,3344.0,4256.0
+682,2020-12-01,Philippines,Oatmeal Raisin,711,3555,1564.2,1990.8
+683,2020-08-01,Philippines,Oatmeal Raisin,2574,12870,5662.8,7207.2
+684,2020-10-01,Philippines,Oatmeal Raisin,472,2360,1038.4,1321.6
+685,2020-01-01,Philippines,Oatmeal Raisin,3165,15825,6963.0,8862.0
+686,2020-01-01,Philippines,Snickerdoodle,1321,5284,1981.5,3302.5
+687,2020-06-01,Philippines,Snickerdoodle,888,3552,1332.0,2220.0
+688,2020-12-01,Philippines,Snickerdoodle,1513,6052,2269.5,3782.5
+689,2020-04-01,Philippines,Snickerdoodle,2580,10320,3870.0,6450.0
+690,2020-06-01,Philippines,Snickerdoodle,689,2756,1033.5,1722.5
+691,2020-10-01,Philippines,Snickerdoodle,2021,8084,3031.5,5052.5
+692,2020-02-01,Philippines,Snickerdoodle,1116,4464,1674.0,2790.0
+693,2020-05-01,Philippines,Snickerdoodle,663,2652,994.5,1657.5
+694,2020-09-01,Philippines,Snickerdoodle,1580,6320,2370.0,3950.0
+695,2020-03-01,Philippines,Snickerdoodle,792,3168,1188.0,1980.0
+696,2020-07-01,Philippines,Snickerdoodle,2811,11244,4216.5,7027.5
+697,2020-12-01,Philippines,Snickerdoodle,280,1120,420.0,700.0
+698,2020-11-01,Philippines,Snickerdoodle,1513,6052,2269.5,3782.5
+699,2020-08-01,Philippines,Snickerdoodle,2767,11068,4150.5,6917.5
+700,2020-10-01,Philippines,Snickerdoodle,1085,4340,1627.5,2712.5
+701,2020-04-01,Philippines,Sugar,2838,8514,3547.5,4966.5
+702,2020-06-01,Philippines,Sugar,888,2664,1110.0,1554.0
+703,2020-03-01,Philippines,Sugar,263,789,328.75,460.25
+704,2020-09-01,Philippines,Sugar,986,2958,1232.5,1725.5
+705,2020-10-01,Philippines,Sugar,2877,8631,3596.25,5034.75
+706,2020-06-01,Philippines,Sugar,1570,4710,1962.5,2747.5
+707,2020-01-01,Philippines,Sugar,2479,7437,3098.75,4338.25
+708,2020-06-01,Philippines,Sugar,2338,7014,2922.5,4091.5
+709,2020-08-01,Philippines,Sugar,422,1266,527.5,738.5
+710,2020-02-01,Philippines,Sugar,2659,7977,3323.75,4653.25
+711,2020-05-01,Philippines,Sugar,880,2640,1100.0,1540.0
+712,2020-10-01,Philippines,Sugar,360,1080,450.0,630.0
+713,2020-12-01,Philippines,Sugar,1531,4593,1913.75,2679.25
+714,2020-12-01,Philippines,Sugar,280,840,350.0,490.0
+715,2020-07-01,Philippines,Sugar,492,1476,615.0,861.0
+716,2020-10-01,Philippines,Sugar,1175,3525,1468.75,2056.25
+717,2020-11-01,Philippines,Sugar,552,1656,690.0,966.0
+718,2020-03-01,Philippines,White Chocolate Macadamia Nut,2161,12966,5942.75,7023.25
+719,2020-06-01,Philippines,White Chocolate Macadamia Nut,1006,6036,2766.5,3269.5
+720,2020-06-01,Philippines,White Chocolate Macadamia Nut,1545,9270,4248.75,5021.25
+721,2020-10-01,Philippines,White Chocolate Macadamia Nut,2877,17262,7911.75,9350.25
+722,2020-02-01,Philippines,White Chocolate Macadamia Nut,807,4842,2219.25,2622.75
+723,2020-12-01,Philippines,White Chocolate Macadamia Nut,1250,7500,3437.5,4062.5
+724,2020-05-01,Philippines,White Chocolate Macadamia Nut,1530,9180,4207.5,4972.5
+725,2020-08-01,Philippines,White Chocolate Macadamia Nut,1001,6006,2752.75,3253.25
+726,2020-09-01,Philippines,White Chocolate Macadamia Nut,2087,12522,5739.25,6782.75
+727,2020-06-01,Philippines,White Chocolate Macadamia Nut,2338,14028,6429.5,7598.5
+728,2020-07-01,Philippines,White Chocolate Macadamia Nut,1307,7842,3594.25,4247.75
+729,2020-01-01,Philippines,White Chocolate Macadamia Nut,681,4086,1872.75,2213.25
+730,2020-04-01,Philippines,White Chocolate Macadamia Nut,510,3060,1402.5,1657.5
+731,2020-10-01,Philippines,White Chocolate Macadamia Nut,241,1446,662.75,783.25
+732,2020-11-01,Philippines,White Chocolate Macadamia Nut,2665,15990,7328.75,8661.25
+733,2020-10-01,Philippines,White Chocolate Macadamia Nut,472,2832,1298.0,1534.0
+734,2020-12-01,Philippines,White Chocolate Macadamia Nut,1013,6078,2785.75,3292.25
+735,2020-01-01,United Kingdom,Chocolate Chip,3945,19725,7890.0,11835.0
+736,2020-02-01,United Kingdom,Chocolate Chip,2296,11480,4592.0,6888.0
+737,2020-05-01,United Kingdom,Chocolate Chip,1030,5150,2060.0,3090.0
+738,2020-06-01,United Kingdom,Chocolate Chip,787,3935,1574.0,2361.0
+739,2020-12-01,United Kingdom,Chocolate Chip,2155,10775,4310.0,6465.0
+740,2020-05-01,United Kingdom,Chocolate Chip,918,4590,1836.0,2754.0
+741,2020-12-01,United Kingdom,Chocolate Chip,1055,5275,2110.0,3165.0
+742,2020-01-01,United Kingdom,Chocolate Chip,2435,12175,4870.0,7305.0
+743,2020-06-01,United Kingdom,Chocolate Chip,1901,9505,3802.0,5703.0
+744,2020-12-01,United Kingdom,Chocolate Chip,1287,6435,2574.0,3861.0
+745,2020-07-01,United Kingdom,Chocolate Chip,2988,14940,5976.0,8964.0
+746,2020-02-01,United Kingdom,Chocolate Chip,1303,6515,2606.0,3909.0
+747,2020-03-01,United Kingdom,Chocolate Chip,2385,11925,4770.0,7155.0
+748,2020-09-01,United Kingdom,Chocolate Chip,2620,13100,5240.0,7860.0
+749,2020-04-01,United Kingdom,Chocolate Chip,3801,19005,7602.0,11403.0
+750,2020-06-01,United Kingdom,Chocolate Chip,1496,7480,2992.0,4488.0
+751,2020-06-01,United Kingdom,Chocolate Chip,448,2240,896.0,1344.0
+752,2020-08-01,United Kingdom,Chocolate Chip,2101,10505,4202.0,6303.0
+753,2020-09-01,United Kingdom,Chocolate Chip,1535,7675,3070.0,4605.0
+754,2020-10-01,United Kingdom,Chocolate Chip,1227,6135,2454.0,3681.0
+755,2020-11-01,United Kingdom,Chocolate Chip,1324,6620,2648.0,3972.0
+756,2020-03-01,United Kingdom,Chocolate Chip,1954,9770,3908.0,5862.0
+757,2020-04-01,United Kingdom,Chocolate Chip,2532,12660,5064.0,7596.0
+758,2020-07-01,United Kingdom,Chocolate Chip,2426,12130,4852.0,7278.0
+759,2020-10-01,United Kingdom,Chocolate Chip,2441,12205,4882.0,7323.0
+760,2020-11-01,United Kingdom,Chocolate Chip,1594,7970,3188.0,4782.0
+761,2020-08-01,United Kingdom,Chocolate Chip,2696,13480,5392.0,8088.0
+762,2020-10-01,United Kingdom,Chocolate Chip,1393,6965,2786.0,4179.0
+763,2020-10-01,United Kingdom,Chocolate Chip,1731,8655,3462.0,5193.0
+764,2020-12-01,United Kingdom,Chocolate Chip,293,1465,586.0,879.0
+765,2020-06-01,United Kingdom,Fortune Cookie,1899,1899,379.8,1519.2
+766,2020-07-01,United Kingdom,Fortune Cookie,1376,1376,275.2,1100.8
+767,2020-06-01,United Kingdom,Fortune Cookie,1901,1901,380.2,1520.8
+768,2020-09-01,United Kingdom,Fortune Cookie,544,544,108.8,435.2
+769,2020-12-01,United Kingdom,Fortune Cookie,1287,1287,257.4,1029.6
+770,2020-01-01,United Kingdom,Fortune Cookie,1385,1385,277.0,1108.0
+771,2020-11-01,United Kingdom,Fortune Cookie,2342,2342,468.4,1873.6
+772,2020-10-01,United Kingdom,Fortune Cookie,1976,1976,395.2,1580.8
+773,2020-10-01,United Kingdom,Fortune Cookie,2181,2181,436.2,1744.8
+774,2020-03-01,United Kingdom,Fortune Cookie,2501,2501,500.2,2000.8
+775,2020-08-01,United Kingdom,Fortune Cookie,1562,1562,312.4,1249.6
+776,2020-05-01,United Kingdom,Fortune Cookie,1666,1666,333.2,1332.8
+777,2020-12-01,United Kingdom,Fortune Cookie,2072,2072,414.4,1657.6
+778,2020-04-01,United Kingdom,Fortune Cookie,1773,1773,354.6,1418.4
+779,2020-02-01,United Kingdom,Fortune Cookie,293,293,58.6,234.4
+780,2020-02-01,United Kingdom,Oatmeal Raisin,2750,13750,6050.0,7700.0
+781,2020-06-01,United Kingdom,Oatmeal Raisin,1899,9495,4177.8,5317.2
+782,2020-11-01,United Kingdom,Oatmeal Raisin,941,4705,2070.2,2634.8
+783,2020-01-01,United Kingdom,Oatmeal Raisin,1988,9940,4373.6,5566.4
+784,2020-09-01,United Kingdom,Oatmeal Raisin,2876,14380,6327.2,8052.8
+785,2020-12-01,United Kingdom,Oatmeal Raisin,2072,10360,4558.4,5801.6
+786,2020-12-01,United Kingdom,Oatmeal Raisin,853,4265,1876.6,2388.4
+787,2020-05-01,United Kingdom,Oatmeal Raisin,1433,7165,3152.6,4012.4
+788,2020-07-01,United Kingdom,Oatmeal Raisin,3422,17110,7528.4,9581.6
+789,2020-06-01,United Kingdom,Oatmeal Raisin,1190,5950,2618.0,3332.0
+790,2020-10-01,United Kingdom,Oatmeal Raisin,1393,6965,3064.6,3900.4
+791,2020-08-01,United Kingdom,Oatmeal Raisin,2475,12375,5445.0,6930.0
+792,2020-10-01,United Kingdom,Oatmeal Raisin,1731,8655,3808.2,4846.8
+793,2020-03-01,United Kingdom,Oatmeal Raisin,2475,12375,5445.0,6930.0
+794,2020-06-01,United Kingdom,Snickerdoodle,2178,8712,3267.0,5445.0
+795,2020-09-01,United Kingdom,Snickerdoodle,2671,10684,4006.5,6677.5
+796,2020-12-01,United Kingdom,Snickerdoodle,2155,8620,3232.5,5387.5
+797,2020-04-01,United Kingdom,Snickerdoodle,4244,16976,6366.0,10610.0
+798,2020-02-01,United Kingdom,Snickerdoodle,1865,7460,2797.5,4662.5
+799,2020-05-01,United Kingdom,Snickerdoodle,1563,6252,2344.5,3907.5
+800,2020-12-01,United Kingdom,Snickerdoodle,2487,9948,3730.5,6217.5
+801,2020-06-01,United Kingdom,Snickerdoodle,448,1792,672.0,1120.0
+802,2020-10-01,United Kingdom,Snickerdoodle,2181,8724,3271.5,5452.5
+803,2020-11-01,United Kingdom,Snickerdoodle,490,1960,735.0,1225.0
+804,2020-10-01,United Kingdom,Snickerdoodle,2441,9764,3661.5,6102.5
+805,2020-01-01,United Kingdom,Snickerdoodle,2522,10088,3783.0,6305.0
+806,2020-03-01,United Kingdom,Snickerdoodle,1790,7160,2685.0,4475.0
+807,2020-08-01,United Kingdom,Snickerdoodle,1174,4696,1761.0,2935.0
+808,2020-06-01,United Kingdom,Sugar,2178,6534,2722.5,3811.5
+809,2020-09-01,United Kingdom,Sugar,2151,6453,2688.75,3764.25
+810,2020-06-01,United Kingdom,Sugar,787,2361,983.75,1377.25
+811,2020-11-01,United Kingdom,Sugar,1744,5232,2180.0,3052.0
+812,2020-05-01,United Kingdom,Sugar,866,2598,1082.5,1515.5
+813,2020-10-01,United Kingdom,Sugar,2177,6531,2721.25,3809.75
+814,2020-12-01,United Kingdom,Sugar,2487,7461,3108.75,4352.25
+815,2020-04-01,United Kingdom,Sugar,1739,5217,2173.75,3043.25
+816,2020-02-01,United Kingdom,Sugar,959,2877,1198.75,1678.25
+817,2020-04-01,United Kingdom,Sugar,575,1725,718.75,1006.25
+818,2020-08-01,United Kingdom,Sugar,381,1143,476.25,666.75
+819,2020-10-01,United Kingdom,Sugar,1227,3681,1533.75,2147.25
+820,2020-01-01,United Kingdom,Sugar,1734,5202,2167.5,3034.5
+821,2020-07-01,United Kingdom,Sugar,3875,11625,4843.75,6781.25
+822,2020-03-01,United Kingdom,Sugar,1491,4473,1863.75,2609.25
+823,2020-12-01,United Kingdom,Sugar,293,879,366.25,512.75
+824,2020-02-01,United Kingdom,White Chocolate Macadamia Nut,1804,10824,4961.0,5863.0
+825,2020-11-01,United Kingdom,White Chocolate Macadamia Nut,639,3834,1757.25,2076.75
+826,2020-04-01,United Kingdom,White Chocolate Macadamia Nut,3864,23184,10626.0,12558.0
+827,2020-12-01,United Kingdom,White Chocolate Macadamia Nut,1055,6330,2901.25,3428.75
+828,2020-10-01,United Kingdom,White Chocolate Macadamia Nut,2177,13062,5986.75,7075.25
+829,2020-08-01,United Kingdom,White Chocolate Macadamia Nut,1579,9474,4342.25,5131.75
+830,2020-06-01,United Kingdom,White Chocolate Macadamia Nut,1496,8976,4114.0,4862.0
+831,2020-07-01,United Kingdom,White Chocolate Macadamia Nut,1659,9954,4562.25,5391.75
+832,2020-10-01,United Kingdom,White Chocolate Macadamia Nut,1976,11856,5434.0,6422.0
+833,2020-03-01,United Kingdom,White Chocolate Macadamia Nut,1967,11802,5409.25,6392.75
+834,2020-07-01,United Kingdom,White Chocolate Macadamia Nut,639,3834,1757.25,2076.75
+835,2020-12-01,United Kingdom,White Chocolate Macadamia Nut,853,5118,2345.75,2772.25
+836,2020-01-01,United Kingdom,White Chocolate Macadamia Nut,3998,23988,10994.5,12993.5
+837,2020-06-01,United Kingdom,White Chocolate Macadamia Nut,1190,7140,3272.5,3867.5
+838,2020-05-01,United Kingdom,White Chocolate Macadamia Nut,2826,16956,7771.5,9184.5
+839,2020-09-01,United Kingdom,White Chocolate Macadamia Nut,663,3978,1823.25,2154.75
+840,2019-09-01,United Kingdom,Chocolate Chip,549,2745,1098.0,1647.0
+841,2019-11-01,United Kingdom,Chocolate Chip,1785,8925,3570.0,5355.0
+842,2019-12-01,United Kingdom,Chocolate Chip,2261,11305,4522.0,6783.0
+843,2019-10-01,United Kingdom,Chocolate Chip,704,3520,1408.0,2112.0
+844,2019-12-01,United Kingdom,Chocolate Chip,2136,10680,4272.0,6408.0
+845,2019-10-01,United Kingdom,Chocolate Chip,1757,8785,3514.0,5271.0
+846,2019-09-01,United Kingdom,Chocolate Chip,1031,5155,2062.0,3093.0
+847,2019-10-01,United Kingdom,Chocolate Chip,2167,10835,4334.0,6501.0
+848,2019-10-01,United Kingdom,Chocolate Chip,1198,5990,2396.0,3594.0
+849,2019-11-01,United Kingdom,Chocolate Chip,1922,9610,3844.0,5766.0
+850,2019-10-01,United Kingdom,Fortune Cookie,1403,1403,280.6,1122.4
+851,2019-10-01,United Kingdom,Fortune Cookie,1757,1757,351.4,1405.6
+852,2019-09-01,United Kingdom,Fortune Cookie,322,322,64.4,257.6
+853,2019-11-01,United Kingdom,Fortune Cookie,1857,1857,371.4,1485.6
+854,2019-12-01,United Kingdom,Fortune Cookie,1186,1186,237.2,948.8
+855,2019-11-01,United Kingdom,Oatmeal Raisin,321,1605,706.2,898.8
+856,2019-10-01,United Kingdom,Oatmeal Raisin,1403,7015,3086.6,3928.4
+857,2019-10-01,United Kingdom,Oatmeal Raisin,2076,10380,4567.2,5812.8
+858,2019-12-01,United Kingdom,Oatmeal Raisin,306,1530,673.2,856.8
+859,2019-11-01,United Kingdom,Snickerdoodle,2145,8580,3217.5,5362.5
+860,2019-12-01,United Kingdom,Snickerdoodle,1482,5928,2223.0,3705.0
+861,2019-10-01,United Kingdom,Snickerdoodle,1198,4792,1797.0,2995.0
+862,2019-09-01,United Kingdom,Snickerdoodle,1023,4092,1534.5,2557.5
+863,2019-09-01,United Kingdom,Sugar,1527,4581,1908.75,2672.25
+864,2019-10-01,United Kingdom,Sugar,1221,3663,1526.25,2136.75
+865,2019-09-01,United Kingdom,Sugar,2234,6702,2792.5,3909.5
+866,2019-11-01,United Kingdom,Sugar,2682,8046,3352.5,4693.5
+867,2019-10-01,United Kingdom,Sugar,2167,6501,2708.75,3792.25
+868,2019-12-01,United Kingdom,Sugar,1281,3843,1601.25,2241.75
+869,2019-10-01,United Kingdom,White Chocolate Macadamia Nut,704,4224,1936.0,2288.0
+870,2019-12-01,United Kingdom,White Chocolate Macadamia Nut,1033,6198,2840.75,3357.25
+871,2019-10-01,United Kingdom,White Chocolate Macadamia Nut,1221,7326,3357.75,3968.25
+872,2019-10-01,United Kingdom,White Chocolate Macadamia Nut,2076,12456,5709.0,6747.0
+873,2019-11-01,United Kingdom,White Chocolate Macadamia Nut,386,2316,1061.5,1254.5
+874,2019-09-01,United Kingdom,White Chocolate Macadamia Nut,2805,16830,7713.75,9116.25
+875,2020-01-01,United Kingdom,Chocolate Chip,3945,19725,7890.0,11835.0
+876,2020-02-01,United Kingdom,Chocolate Chip,2296,11480,4592.0,6888.0
+877,2020-05-01,United Kingdom,Chocolate Chip,1030,5150,2060.0,3090.0
+878,2020-06-01,United Kingdom,Chocolate Chip,787,3935,1574.0,2361.0
+879,2020-12-01,United Kingdom,Chocolate Chip,2155,10775,4310.0,6465.0
+880,2020-05-01,United Kingdom,Chocolate Chip,918,4590,1836.0,2754.0
+881,2020-12-01,United Kingdom,Chocolate Chip,1055,5275,2110.0,3165.0
+882,2020-01-01,United Kingdom,Chocolate Chip,2435,12175,4870.0,7305.0
+883,2020-06-01,United Kingdom,Chocolate Chip,1901,9505,3802.0,5703.0
+884,2020-12-01,United Kingdom,Chocolate Chip,1287,6435,2574.0,3861.0
+885,2020-07-01,United Kingdom,Chocolate Chip,2988,14940,5976.0,8964.0
+886,2020-02-01,United Kingdom,Chocolate Chip,1303,6515,2606.0,3909.0
+887,2020-03-01,United Kingdom,Chocolate Chip,2385,11925,4770.0,7155.0
+888,2020-09-01,United Kingdom,Chocolate Chip,2620,13100,5240.0,7860.0
+889,2020-04-01,United Kingdom,Chocolate Chip,3801,19005,7602.0,11403.0
+890,2020-06-01,United Kingdom,Chocolate Chip,1496,7480,2992.0,4488.0
+891,2020-06-01,United Kingdom,Chocolate Chip,448,2240,896.0,1344.0
+892,2020-08-01,United Kingdom,Chocolate Chip,2101,10505,4202.0,6303.0
+893,2020-09-01,United Kingdom,Chocolate Chip,1535,7675,3070.0,4605.0
+894,2020-10-01,United Kingdom,Chocolate Chip,1227,6135,2454.0,3681.0
+895,2020-11-01,United Kingdom,Chocolate Chip,1324,6620,2648.0,3972.0
+896,2020-03-01,United Kingdom,Chocolate Chip,1954,9770,3908.0,5862.0
+897,2020-04-01,United Kingdom,Chocolate Chip,2532,12660,5064.0,7596.0
+898,2020-07-01,United Kingdom,Chocolate Chip,2426,12130,4852.0,7278.0
+899,2020-10-01,United Kingdom,Chocolate Chip,2441,12205,4882.0,7323.0
+900,2020-11-01,United Kingdom,Chocolate Chip,1594,7970,3188.0,4782.0
+901,2020-08-01,United Kingdom,Chocolate Chip,2696,13480,5392.0,8088.0
+902,2020-10-01,United Kingdom,Chocolate Chip,1393,6965,2786.0,4179.0
+903,2020-10-01,United Kingdom,Chocolate Chip,1731,8655,3462.0,5193.0
+904,2020-12-01,United Kingdom,Chocolate Chip,293,1465,586.0,879.0
+905,2020-06-01,United Kingdom,Fortune Cookie,1899,1899,379.8,1519.2
+906,2020-07-01,United Kingdom,Fortune Cookie,1376,1376,275.2,1100.8
+907,2020-06-01,United Kingdom,Fortune Cookie,1901,1901,380.2,1520.8
+908,2020-09-01,United Kingdom,Fortune Cookie,544,544,108.8,435.2
+909,2020-12-01,United Kingdom,Fortune Cookie,1287,1287,257.4,1029.6
+910,2020-01-01,United Kingdom,Fortune Cookie,1385,1385,277.0,1108.0
+911,2020-11-01,United Kingdom,Fortune Cookie,2342,2342,468.4,1873.6
+912,2020-10-01,United Kingdom,Fortune Cookie,1976,1976,395.2,1580.8
+913,2020-10-01,United Kingdom,Fortune Cookie,2181,2181,436.2,1744.8
+914,2020-03-01,United Kingdom,Fortune Cookie,2501,2501,500.2,2000.8
+915,2020-08-01,United Kingdom,Fortune Cookie,1562,1562,312.4,1249.6
+916,2020-05-01,United Kingdom,Fortune Cookie,1666,1666,333.2,1332.8
+917,2020-12-01,United Kingdom,Fortune Cookie,2072,2072,414.4,1657.6
+918,2020-04-01,United Kingdom,Fortune Cookie,1773,1773,354.6,1418.4
+919,2020-02-01,United Kingdom,Fortune Cookie,293,293,58.6,234.4
+920,2020-02-01,United Kingdom,Oatmeal Raisin,2750,13750,6050.0,7700.0
+921,2020-06-01,United Kingdom,Oatmeal Raisin,1899,9495,4177.8,5317.2
+922,2020-11-01,United Kingdom,Oatmeal Raisin,941,4705,2070.2,2634.8
+923,2020-01-01,United Kingdom,Oatmeal Raisin,1988,9940,4373.6,5566.4
+924,2020-09-01,United Kingdom,Oatmeal Raisin,2876,14380,6327.2,8052.8
+925,2020-12-01,United Kingdom,Oatmeal Raisin,2072,10360,4558.4,5801.6
+926,2020-12-01,United Kingdom,Oatmeal Raisin,853,4265,1876.6,2388.4
+927,2020-05-01,United Kingdom,Oatmeal Raisin,1433,7165,3152.6,4012.4
+928,2020-07-01,United Kingdom,Oatmeal Raisin,3422,17110,7528.4,9581.6
+929,2020-06-01,United Kingdom,Oatmeal Raisin,1190,5950,2618.0,3332.0
+930,2020-10-01,United Kingdom,Oatmeal Raisin,1393,6965,3064.6,3900.4
+931,2020-08-01,United Kingdom,Oatmeal Raisin,2475,12375,5445.0,6930.0
+932,2020-10-01,United Kingdom,Oatmeal Raisin,1731,8655,3808.2,4846.8
+933,2020-03-01,United Kingdom,Oatmeal Raisin,2475,12375,5445.0,6930.0
+934,2020-06-01,United Kingdom,Snickerdoodle,2178,8712,3267.0,5445.0
+935,2020-09-01,United Kingdom,Snickerdoodle,2671,10684,4006.5,6677.5
+936,2020-12-01,United Kingdom,Snickerdoodle,2155,8620,3232.5,5387.5
+937,2020-04-01,United Kingdom,Snickerdoodle,4244,16976,6366.0,10610.0
+938,2020-02-01,United Kingdom,Snickerdoodle,1865,7460,2797.5,4662.5
+939,2020-05-01,United Kingdom,Snickerdoodle,1563,6252,2344.5,3907.5
+940,2020-12-01,United Kingdom,Snickerdoodle,2487,9948,3730.5,6217.5
+941,2020-06-01,United Kingdom,Snickerdoodle,448,1792,672.0,1120.0
+942,2020-10-01,United Kingdom,Snickerdoodle,2181,8724,3271.5,5452.5
+943,2020-11-01,United Kingdom,Snickerdoodle,490,1960,735.0,1225.0
+944,2020-10-01,United Kingdom,Snickerdoodle,2441,9764,3661.5,6102.5
+945,2020-01-01,United Kingdom,Snickerdoodle,2522,10088,3783.0,6305.0
+946,2020-03-01,United Kingdom,Snickerdoodle,1790,7160,2685.0,4475.0
+947,2020-08-01,United Kingdom,Snickerdoodle,1174,4696,1761.0,2935.0
+948,2020-06-01,United Kingdom,Sugar,2178,6534,2722.5,3811.5
+949,2020-09-01,United Kingdom,Sugar,2151,6453,2688.75,3764.25
+950,2020-06-01,United Kingdom,Sugar,787,2361,983.75,1377.25
+951,2020-11-01,United Kingdom,Sugar,1744,5232,2180.0,3052.0
+952,2020-05-01,United Kingdom,Sugar,866,2598,1082.5,1515.5
+953,2020-10-01,United Kingdom,Sugar,2177,6531,2721.25,3809.75
+954,2020-12-01,United Kingdom,Sugar,2487,7461,3108.75,4352.25
+955,2020-04-01,United Kingdom,Sugar,1739,5217,2173.75,3043.25
+956,2020-02-01,United Kingdom,Sugar,959,2877,1198.75,1678.25
+957,2020-04-01,United Kingdom,Sugar,575,1725,718.75,1006.25
+958,2020-08-01,United Kingdom,Sugar,381,1143,476.25,666.75
+959,2020-10-01,United Kingdom,Sugar,1227,3681,1533.75,2147.25
+960,2020-01-01,United Kingdom,Sugar,1734,5202,2167.5,3034.5
+961,2020-07-01,United Kingdom,Sugar,3875,11625,4843.75,6781.25
+962,2020-03-01,United Kingdom,Sugar,1491,4473,1863.75,2609.25
+963,2020-12-01,United Kingdom,Sugar,293,879,366.25,512.75
+964,2020-02-01,United Kingdom,White Chocolate Macadamia Nut,1804,10824,4961.0,5863.0
+965,2020-11-01,United Kingdom,White Chocolate Macadamia Nut,639,3834,1757.25,2076.75
+966,2020-04-01,United Kingdom,White Chocolate Macadamia Nut,3864,23184,10626.0,12558.0
+967,2020-12-01,United Kingdom,White Chocolate Macadamia Nut,1055,6330,2901.25,3428.75
+968,2020-10-01,United Kingdom,White Chocolate Macadamia Nut,2177,13062,5986.75,7075.25
+969,2020-08-01,United Kingdom,White Chocolate Macadamia Nut,1579,9474,4342.25,5131.75
+970,2020-06-01,United Kingdom,White Chocolate Macadamia Nut,1496,8976,4114.0,4862.0
+971,2020-07-01,United Kingdom,White Chocolate Macadamia Nut,1659,9954,4562.25,5391.75
+972,2020-10-01,United Kingdom,White Chocolate Macadamia Nut,1976,11856,5434.0,6422.0
+973,2020-03-01,United Kingdom,White Chocolate Macadamia Nut,1967,11802,5409.25,6392.75
+974,2020-07-01,United Kingdom,White Chocolate Macadamia Nut,639,3834,1757.25,2076.75
+975,2020-12-01,United Kingdom,White Chocolate Macadamia Nut,853,5118,2345.75,2772.25
+976,2020-01-01,United Kingdom,White Chocolate Macadamia Nut,3998,23988,10994.5,12993.5
+977,2020-06-01,United Kingdom,White Chocolate Macadamia Nut,1190,7140,3272.5,3867.5
+978,2020-05-01,United Kingdom,White Chocolate Macadamia Nut,2826,16956,7771.5,9184.5
+979,2020-09-01,United Kingdom,White Chocolate Macadamia Nut,663,3978,1823.25,2154.75
+980,2020-10-01,United States,Chocolate Chip,1143,5715,2286.0,3429.0
+981,2020-02-01,United States,Chocolate Chip,1514,7570,3028.0,4542.0
+982,2020-04-01,United States,Chocolate Chip,4493,22465,8986.0,13479.0
+983,2020-06-01,United States,Chocolate Chip,727,3635,1454.0,2181.0
+984,2020-11-01,United States,Chocolate Chip,2905,14525,5810.0,8715.0
+985,2020-06-01,United States,Chocolate Chip,1142,5710,2284.0,3426.0
+986,2020-07-01,United States,Chocolate Chip,1370,6850,2740.0,4110.0
+987,2020-05-01,United States,Chocolate Chip,2918,14590,5836.0,8754.0
+988,2020-07-01,United States,Chocolate Chip,3450,17250,6900.0,10350.0
+989,2020-09-01,United States,Chocolate Chip,1056,5280,2112.0,3168.0
+990,2020-12-01,United States,Chocolate Chip,274,1370,548.0,822.0
+991,2020-03-01,United States,Chocolate Chip,2992,14960,5984.0,8976.0
+992,2020-05-01,United States,Chocolate Chip,2327,11635,4654.0,6981.0
+993,2020-06-01,United States,Chocolate Chip,991,4955,1982.0,2973.0
+994,2020-06-01,United States,Chocolate Chip,602,3010,1204.0,1806.0
+995,2020-10-01,United States,Chocolate Chip,861,4305,1722.0,2583.0
+996,2020-12-01,United States,Chocolate Chip,2663,13315,5326.0,7989.0
+997,2020-08-01,United States,Chocolate Chip,2198,10990,4396.0,6594.0
+998,2020-10-01,United States,Chocolate Chip,1153,5765,2306.0,3459.0
+999,2020-08-01,United States,Chocolate Chip,678,3390,1356.0,2034.0
+1000,2020-04-01,United States,Chocolate Chip,3675,18375,7350.0,11025.0
+1001,2020-12-01,United States,Chocolate Chip,2797,13985,5594.0,8391.0
+1002,2020-03-01,United States,Chocolate Chip,973,4865,1946.0,2919.0
+1003,2020-01-01,United States,Chocolate Chip,3495,17475,6990.0,10485.0
+1004,2020-01-01,United States,Chocolate Chip,1439,7195,2878.0,4317.0
+1005,2020-02-01,United States,Chocolate Chip,2641,13205,5282.0,7923.0
+1006,2020-09-01,United States,Chocolate Chip,1767,8835,3534.0,5301.0
+1007,2020-10-01,United States,Chocolate Chip,2914,14570,5828.0,8742.0
+1008,2020-11-01,United States,Chocolate Chip,1177,5885,2354.0,3531.0
+1009,2020-12-01,United States,Chocolate Chip,914,4570,1828.0,2742.0
+1010,2020-12-01,United States,Fortune Cookie,615,615,123.0,492.0
+1011,2020-04-01,United States,Fortune Cookie,2301,2301,460.2,1840.8
+1012,2020-06-01,United States,Fortune Cookie,1142,1142,228.4,913.6
+1013,2020-10-01,United States,Fortune Cookie,1566,1566,313.2,1252.8
+1014,2020-07-01,United States,Fortune Cookie,3627,3627,725.4,2901.6
+1015,2020-11-01,United States,Fortune Cookie,2723,2723,544.6,2178.4
+1016,2020-06-01,United States,Fortune Cookie,1282,1282,256.4,1025.6
+1017,2020-12-01,United States,Fortune Cookie,2797,2797,559.4,2237.6
+1018,2020-09-01,United States,Fortune Cookie,2328,2328,465.6,1862.4
+1019,2020-05-01,United States,Fortune Cookie,2313,2313,462.6,1850.4
+1020,2020-03-01,United States,Fortune Cookie,677,677,135.4,541.6
+1021,2020-01-01,United States,Fortune Cookie,983,983,196.6,786.4
+1022,2020-02-01,United States,Fortune Cookie,1298,1298,259.6,1038.4
+1023,2020-04-01,United States,Oatmeal Raisin,1953,9765,4296.6,5468.4
+1024,2020-08-01,United States,Oatmeal Raisin,2141,10705,4710.2,5994.8
+1025,2020-10-01,United States,Oatmeal Raisin,1143,5715,2514.6,3200.4
+1026,2020-12-01,United States,Oatmeal Raisin,615,3075,1353.0,1722.0
+1027,2020-11-01,United States,Oatmeal Raisin,1236,6180,2719.2,3460.8
+1028,2020-12-01,United States,Oatmeal Raisin,1372,6860,3018.4,3841.6
+1029,2020-06-01,United States,Oatmeal Raisin,1282,6410,2820.4,3589.6
+1030,2020-06-01,United States,Oatmeal Raisin,2907,14535,6395.4,8139.6
+1031,2020-09-01,United States,Oatmeal Raisin,2071,10355,4556.2,5798.8
+1032,2020-01-01,United States,Oatmeal Raisin,579,2895,1273.8,1621.2
+1033,2020-03-01,United States,Oatmeal Raisin,2993,14965,6584.6,8380.4
+1034,2020-07-01,United States,Oatmeal Raisin,3200,16000,7040.0,8960.0
+1035,2020-02-01,United States,Oatmeal Raisin,270,1350,594.0,756.0
+1036,2020-05-01,United States,Oatmeal Raisin,2844,14220,6256.8,7963.2
+1037,2020-10-01,United States,Oatmeal Raisin,2914,14570,6410.8,8159.2
+1038,2020-02-01,United States,Snickerdoodle,1858,7432,2787.0,4645.0
+1039,2020-07-01,United States,Snickerdoodle,2529,10116,3793.5,6322.5
+1040,2020-09-01,United States,Snickerdoodle,1947,7788,2920.5,4867.5
+1041,2020-12-01,United States,Snickerdoodle,274,1096,411.0,685.0
+1042,2020-06-01,United States,Snickerdoodle,991,3964,1486.5,2477.5
+1043,2020-12-01,United States,Snickerdoodle,570,2280,855.0,1425.0
+1044,2020-01-01,United States,Snickerdoodle,1118,4472,1677.0,2795.0
+1045,2020-11-01,United States,Snickerdoodle,2030,8120,3045.0,5075.0
+1046,2020-03-01,United States,Snickerdoodle,1761,7044,2641.5,4402.5
+1047,2020-04-01,United States,Snickerdoodle,3446,13784,5169.0,8615.0
+1048,2020-06-01,United States,Snickerdoodle,2567,10268,3850.5,6417.5
+1049,2020-05-01,United States,Snickerdoodle,1743,6972,2614.5,4357.5
+1050,2020-10-01,United States,Snickerdoodle,1010,4040,1515.0,2525.0
+1051,2020-06-01,United States,Sugar,727,2181,908.75,1272.25
+1052,2020-02-01,United States,Sugar,2844,8532,3555.0,4977.0
+1053,2020-12-01,United States,Sugar,2663,7989,3328.75,4660.25
+1054,2020-12-01,United States,Sugar,570,1710,712.5,997.5
+1055,2020-10-01,United States,Sugar,1153,3459,1441.25,2017.75
+1056,2020-07-01,United States,Sugar,437,1311,546.25,764.75
+1057,2020-01-01,United States,Sugar,1956,5868,2445.0,3423.0
+1058,2020-04-01,United States,Sugar,1352,4056,1690.0,2366.0
+1059,2020-09-01,United States,Sugar,1867,5601,2333.75,3267.25
+1060,2020-08-01,United States,Sugar,2807,8421,3508.75,4912.25
+1061,2020-03-01,United States,Sugar,1579,4737,1973.75,2763.25
+1062,2020-10-01,United States,Sugar,986,2958,1232.5,1725.5
+1063,2020-11-01,United States,Sugar,2387,7161,2983.75,4177.25
+1064,2020-06-01,United States,Sugar,2567,7701,3208.75,4492.25
+1065,2020-08-01,United States,Sugar,2541,7623,3176.25,4446.75
+1066,2020-10-01,United States,Sugar,1010,3030,1262.5,1767.5
+1067,2020-05-01,United States,Sugar,1806,5418,2257.5,3160.5
+1068,2020-08-01,United States,White Chocolate Macadamia Nut,2821,16926,7757.75,9168.25
+1069,2020-10-01,United States,White Chocolate Macadamia Nut,1566,9396,4306.5,5089.5
+1070,2020-03-01,United States,White Chocolate Macadamia Nut,1465,8790,4028.75,4761.25
+1071,2020-01-01,United States,White Chocolate Macadamia Nut,555,3330,1526.25,1803.75
+1072,2020-06-01,United States,White Chocolate Macadamia Nut,602,3612,1655.5,1956.5
+1073,2020-08-01,United States,White Chocolate Macadamia Nut,2832,16992,7788.0,9204.0
+1074,2020-10-01,United States,White Chocolate Macadamia Nut,861,5166,2367.75,2798.25
+1075,2020-02-01,United States,White Chocolate Macadamia Nut,2755,16530,7576.25,8953.75
+1076,2020-11-01,United States,White Chocolate Macadamia Nut,547,3282,1504.25,1777.75
+1077,2020-12-01,United States,White Chocolate Macadamia Nut,1372,8232,3773.0,4459.0
+1078,2020-06-01,United States,White Chocolate Macadamia Nut,2907,17442,7994.25,9447.75
+1079,2020-05-01,United States,White Chocolate Macadamia Nut,790,4740,2172.5,2567.5
+1080,2020-09-01,United States,White Chocolate Macadamia Nut,1596,9576,4389.0,5187.0
+1081,2020-10-01,United States,White Chocolate Macadamia Nut,986,5916,2711.5,3204.5
+1082,2020-04-01,United States,White Chocolate Macadamia Nut,606,3636,1666.5,1969.5
+1083,2020-07-01,United States,White Chocolate Macadamia Nut,2460,14760,6765.0,7995.0
+1084,2020-12-01,United States,White Chocolate Macadamia Nut,914,5484,2513.5,2970.5
+1085,2019-11-01,United States,Chocolate Chip,912,4560,1824.0,2736.0
+1086,2019-12-01,United States,Chocolate Chip,1925,9625,3850.0,5775.0
+1087,2019-12-01,United States,Chocolate Chip,2013,10065,4026.0,6039.0
+1088,2019-10-01,United States,Chocolate Chip,671,3355,1342.0,2013.0
+1089,2019-10-01,United States,Chocolate Chip,727,3635,1454.0,2181.0
+1090,2019-09-01,United States,Chocolate Chip,2931,14655,5862.0,8793.0
+1091,2019-10-01,United States,Chocolate Chip,386,1930,772.0,1158.0
+1092,2019-09-01,United States,Chocolate Chip,380,1900,760.0,1140.0
+1093,2019-10-01,United States,Chocolate Chip,267,1335,534.0,801.0
+1094,2019-11-01,United States,Chocolate Chip,2007,10035,4014.0,6021.0
+1095,2019-09-01,United States,Fortune Cookie,2498,2498,499.6,1998.4
+1096,2019-10-01,United States,Fortune Cookie,663,663,132.6,530.4
+1097,2019-11-01,United States,Fortune Cookie,1804,1804,360.8,1443.2
+1098,2019-10-01,United States,Fortune Cookie,2996,2996,599.2,2396.8
+1099,2019-09-01,United States,Oatmeal Raisin,1989,9945,4375.8,5569.2
+1100,2019-10-01,United States,Oatmeal Raisin,671,3355,1476.2,1878.8
+1101,2019-10-01,United States,Oatmeal Raisin,727,3635,1599.4,2035.6
+1102,2019-11-01,United States,Oatmeal Raisin,2548,12740,5605.6,7134.4
+1103,2019-12-01,United States,Oatmeal Raisin,2015,10075,4433.0,5642.0
+1104,2019-09-01,United States,Snickerdoodle,330,1320,495.0,825.0
+1105,2019-11-01,United States,Snickerdoodle,263,1052,394.5,657.5
+1106,2019-10-01,United States,Snickerdoodle,386,1544,579.0,965.0
+1107,2019-10-01,United States,Snickerdoodle,2996,11984,4494.0,7490.0
+1108,2019-12-01,United States,Sugar,266,798,332.5,465.5
+1109,2019-09-01,United States,Sugar,349,1047,436.25,610.75
+1110,2019-11-01,United States,Sugar,1265,3795,1581.25,2213.75
+1111,2019-12-01,United States,Sugar,808,2424,1010.0,1414.0
+1112,2019-10-01,United States,Sugar,2294,6882,2867.5,4014.5
+1113,2019-10-01,United States,Sugar,267,801,333.75,467.25
+1114,2019-10-01,United States,White Chocolate Macadamia Nut,663,3978,1823.25,2154.75
+1115,2019-09-01,United States,White Chocolate Macadamia Nut,736,4416,2024.0,2392.0
+1116,2019-12-01,United States,White Chocolate Macadamia Nut,1421,8526,3907.75,4618.25
+1117,2019-10-01,United States,White Chocolate Macadamia Nut,2294,13764,6308.5,7455.5
+1118,2019-11-01,United States,White Chocolate Macadamia Nut,2574,15444,7078.5,8365.5
+1119,2019-12-01,United States,White Chocolate Macadamia Nut,2438,14628,6704.5,7923.5
+1120,2020-10-01,United States,Chocolate Chip,1143,5715,2286.0,3429.0
+1121,2020-02-01,United States,Chocolate Chip,1514,7570,3028.0,4542.0
+1122,2020-04-01,United States,Chocolate Chip,4493,22465,8986.0,13479.0
+1123,2020-06-01,United States,Chocolate Chip,727,3635,1454.0,2181.0
+1124,2020-11-01,United States,Chocolate Chip,2905,14525,5810.0,8715.0
+1125,2020-06-01,United States,Chocolate Chip,1142,5710,2284.0,3426.0
+1126,2020-07-01,United States,Chocolate Chip,1370,6850,2740.0,4110.0
+1127,2020-05-01,United States,Chocolate Chip,2918,14590,5836.0,8754.0
+1128,2020-07-01,United States,Chocolate Chip,3450,17250,6900.0,10350.0
+1129,2020-09-01,United States,Chocolate Chip,1056,5280,2112.0,3168.0
+1130,2020-12-01,United States,Chocolate Chip,274,1370,548.0,822.0
+1131,2020-03-01,United States,Chocolate Chip,2992,14960,5984.0,8976.0
+1132,2020-05-01,United States,Chocolate Chip,2327,11635,4654.0,6981.0
+1133,2020-06-01,United States,Chocolate Chip,991,4955,1982.0,2973.0
+1134,2020-06-01,United States,Chocolate Chip,602,3010,1204.0,1806.0
+1135,2020-10-01,United States,Chocolate Chip,861,4305,1722.0,2583.0
+1136,2020-12-01,United States,Chocolate Chip,2663,13315,5326.0,7989.0
+1137,2020-08-01,United States,Chocolate Chip,2198,10990,4396.0,6594.0
+1138,2020-10-01,United States,Chocolate Chip,1153,5765,2306.0,3459.0
+1139,2020-08-01,United States,Chocolate Chip,678,3390,1356.0,2034.0
+1140,2020-04-01,United States,Chocolate Chip,3675,18375,7350.0,11025.0
+1141,2020-12-01,United States,Chocolate Chip,2797,13985,5594.0,8391.0
+1142,2020-03-01,United States,Chocolate Chip,973,4865,1946.0,2919.0
+1143,2020-01-01,United States,Chocolate Chip,3495,17475,6990.0,10485.0
+1144,2020-01-01,United States,Chocolate Chip,1439,7195,2878.0,4317.0
+1145,2020-02-01,United States,Chocolate Chip,2641,13205,5282.0,7923.0
+1146,2020-09-01,United States,Chocolate Chip,1767,8835,3534.0,5301.0
+1147,2020-10-01,United States,Chocolate Chip,2914,14570,5828.0,8742.0
+1148,2020-11-01,United States,Chocolate Chip,1177,5885,2354.0,3531.0
+1149,2020-12-01,United States,Chocolate Chip,914,4570,1828.0,2742.0
+1150,2020-12-01,United States,Fortune Cookie,615,615,123.0,492.0
+1151,2020-04-01,United States,Fortune Cookie,2301,2301,460.2,1840.8
+1152,2020-06-01,United States,Fortune Cookie,1142,1142,228.4,913.6
+1153,2020-10-01,United States,Fortune Cookie,1566,1566,313.2,1252.8
+1154,2020-07-01,United States,Fortune Cookie,3627,3627,725.4,2901.6
+1155,2020-11-01,United States,Fortune Cookie,2723,2723,544.6,2178.4
+1156,2020-06-01,United States,Fortune Cookie,1282,1282,256.4,1025.6
+1157,2020-12-01,United States,Fortune Cookie,2797,2797,559.4,2237.6
+1158,2020-09-01,United States,Fortune Cookie,2328,2328,465.6,1862.4
+1159,2020-05-01,United States,Fortune Cookie,2313,2313,462.6,1850.4
+1160,2020-03-01,United States,Fortune Cookie,677,677,135.4,541.6
+1161,2020-01-01,United States,Fortune Cookie,983,983,196.6,786.4
+1162,2020-02-01,United States,Fortune Cookie,1298,1298,259.6,1038.4
+1163,2020-04-01,United States,Oatmeal Raisin,1953,9765,4296.6,5468.4
+1164,2020-08-01,United States,Oatmeal Raisin,2141,10705,4710.2,5994.8
+1165,2020-10-01,United States,Oatmeal Raisin,1143,5715,2514.6,3200.4
+1166,2020-12-01,United States,Oatmeal Raisin,615,3075,1353.0,1722.0
+1167,2020-11-01,United States,Oatmeal Raisin,1236,6180,2719.2,3460.8
+1168,2020-12-01,United States,Oatmeal Raisin,1372,6860,3018.4,3841.6
+1169,2020-06-01,United States,Oatmeal Raisin,1282,6410,2820.4,3589.6
+1170,2020-06-01,United States,Oatmeal Raisin,2907,14535,6395.4,8139.6
+1171,2020-09-01,United States,Oatmeal Raisin,2071,10355,4556.2,5798.8
+1172,2020-01-01,United States,Oatmeal Raisin,579,2895,1273.8,1621.2
+1173,2020-03-01,United States,Oatmeal Raisin,2993,14965,6584.6,8380.4
+1174,2020-07-01,United States,Oatmeal Raisin,3200,16000,7040.0,8960.0
+1175,2020-02-01,United States,Oatmeal Raisin,270,1350,594.0,756.0
+1176,2020-05-01,United States,Oatmeal Raisin,2844,14220,6256.8,7963.2
+1177,2020-10-01,United States,Oatmeal Raisin,2914,14570,6410.8,8159.2
+1178,2020-02-01,United States,Snickerdoodle,1858,7432,2787.0,4645.0
+1179,2020-07-01,United States,Snickerdoodle,2529,10116,3793.5,6322.5
+1180,2020-09-01,United States,Snickerdoodle,1947,7788,2920.5,4867.5
+1181,2020-12-01,United States,Snickerdoodle,274,1096,411.0,685.0
+1182,2020-06-01,United States,Snickerdoodle,991,3964,1486.5,2477.5
+1183,2020-12-01,United States,Snickerdoodle,570,2280,855.0,1425.0
+1184,2020-01-01,United States,Snickerdoodle,1118,4472,1677.0,2795.0
+1185,2020-11-01,United States,Snickerdoodle,2030,8120,3045.0,5075.0
+1186,2020-03-01,United States,Snickerdoodle,1761,7044,2641.5,4402.5
+1187,2020-04-01,United States,Snickerdoodle,3446,13784,5169.0,8615.0
+1188,2020-06-01,United States,Snickerdoodle,2567,10268,3850.5,6417.5
+1189,2020-05-01,United States,Snickerdoodle,1743,6972,2614.5,4357.5
+1190,2020-10-01,United States,Snickerdoodle,1010,4040,1515.0,2525.0
+1191,2020-06-01,United States,Sugar,727,2181,908.75,1272.25
+1192,2020-02-01,United States,Sugar,2844,8532,3555.0,4977.0
+1193,2020-12-01,United States,Sugar,2663,7989,3328.75,4660.25
+1194,2020-12-01,United States,Sugar,570,1710,712.5,997.5
+1195,2020-10-01,United States,Sugar,1153,3459,1441.25,2017.75
+1196,2020-07-01,United States,Sugar,437,1311,546.25,764.75
+1197,2020-01-01,United States,Sugar,1956,5868,2445.0,3423.0
+1198,2020-04-01,United States,Sugar,1352,4056,1690.0,2366.0
+1199,2020-09-01,United States,Sugar,1867,5601,2333.75,3267.25
+1200,2020-08-01,United States,Sugar,2807,8421,3508.75,4912.25
+1201,2020-03-01,United States,Sugar,1579,4737,1973.75,2763.25
+1202,2020-10-01,United States,Sugar,986,2958,1232.5,1725.5
+1203,2020-11-01,United States,Sugar,2387,7161,2983.75,4177.25
+1204,2020-06-01,United States,Sugar,2567,7701,3208.75,4492.25
+1205,2020-08-01,United States,Sugar,2541,7623,3176.25,4446.75
+1206,2020-10-01,United States,Sugar,1010,3030,1262.5,1767.5
+1207,2020-05-01,United States,Sugar,1806,5418,2257.5,3160.5
+1208,2020-08-01,United States,White Chocolate Macadamia Nut,2821,16926,7757.75,9168.25
+1209,2020-10-01,United States,White Chocolate Macadamia Nut,1566,9396,4306.5,5089.5
+1210,2020-03-01,United States,White Chocolate Macadamia Nut,1465,8790,4028.75,4761.25
+1211,2020-01-01,United States,White Chocolate Macadamia Nut,555,3330,1526.25,1803.75
+1212,2020-06-01,United States,White Chocolate Macadamia Nut,602,3612,1655.5,1956.5
+1213,2020-08-01,United States,White Chocolate Macadamia Nut,2832,16992,7788.0,9204.0
+1214,2020-10-01,United States,White Chocolate Macadamia Nut,861,5166,2367.75,2798.25
+1215,2020-02-01,United States,White Chocolate Macadamia Nut,2755,16530,7576.25,8953.75
+1216,2020-11-01,United States,White Chocolate Macadamia Nut,547,3282,1504.25,1777.75
+1217,2020-12-01,United States,White Chocolate Macadamia Nut,1372,8232,3773.0,4459.0
+1218,2020-06-01,United States,White Chocolate Macadamia Nut,2907,17442,7994.25,9447.75
+1219,2020-05-01,United States,White Chocolate Macadamia Nut,790,4740,2172.5,2567.5
+1220,2020-09-01,United States,White Chocolate Macadamia Nut,1596,9576,4389.0,5187.0
+1221,2020-10-01,United States,White Chocolate Macadamia Nut,986,5916,2711.5,3204.5
+1222,2020-04-01,United States,White Chocolate Macadamia Nut,606,3636,1666.5,1969.5
+1223,2020-07-01,United States,White Chocolate Macadamia Nut,2460,14760,6765.0,7995.0
+1224,2020-12-01,United States,White Chocolate Macadamia Nut,914,5484,2513.5,2970.5
