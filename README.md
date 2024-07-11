@@ -6,7 +6,7 @@ This project demonstrates the creation of an interactive sales analysis dashboar
 
 ## Architecture
 
-![AWS Architecture](path_to_aws_architecture_image.png)
+![AWS Architecture](pics/schema.png)
 
 The project follows a simple yet effective architecture:
 1. Raw data is stored in Amazon S3 buckets
@@ -23,7 +23,7 @@ The project follows a simple yet effective architecture:
 
 ## Dashboard Preview
 
-![QuickSight Dashboard](path_to_quicksight_dashboard_image.png)
+![QuickSight Dashboard](pics/dashboard.png)
 
 The dashboard provides several key metrics and visualizations:
 - Total Units Sold
